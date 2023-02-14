@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Jiawei Xu (许家伟)"
-title_separator          : "-"
+title_separator          : ""
 name                     : &name "Jiawei"
 description              : &description "student"
 url                      : https://jiaweixu98.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
