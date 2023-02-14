@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-[CV](https://jiaweixu98.github.io/files/CV_Jiawei%20Xu.pdf)
+[This is my CV](https://jiaweixu98.github.io/files/CV_Jiawei%20Xu.pdf)
