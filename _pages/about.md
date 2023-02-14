@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jiawei Xu"
+title: "Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
