@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "Jiawei Xu (许家伟）"
+title: ""
 excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-[View my CV here](https:/jiaweixu98.github.io/files/CV_Jiawei Xu.pdf)
 
 <object data="https:/jiaweixu98.github.io/files/CV_Jiawei Xu.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https:/jiaweixu98.github.io/files/CV_Jiawei Xu.pdf">
