@@ -61,7 +61,8 @@ I am a first-year Ph.D. student in Information Studies at the School of Informat
 
 - **2023.08 - Now:** Ph.D. student in Information Studies at the School of Information, UT Austin, supervised by Professor **Ying Ding**.
 
-- **2021.09 - 2023.06:** M.S. in Information Science, Department of Information Management, Peking University.
+- **2021.09 - 2023.06:** M.S. in Information Science, Department of Information Management, Peking University, supervised by Doctor **Yi Bu**.
+
 
 - **2017.09 - 2021.06:** B.Mngt. in Information Management & Information System, Department of Information Management, Peking University.
 
@@ -69,7 +70,7 @@ I am a first-year Ph.D. student in Information Studies at the School of Informat
 # 💬 Invited Talks
 <span class='anchor' id='invited-talks'></span>
 
-- **2023.06:** "Beyond Correlation: What Factors Influence Scientific Performance" (with Yi Bu and Yang Ding).
+- **2023.08:** "Beyond Correlation: What Factors Influence Scientific Performance" (with Yi Bu and Yang Ding).
 
 <!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
