@@ -6,8 +6,8 @@ main:
   - title: "News"
     url: "/#-news"
 
-  - title: "Publications"
-    url: "/#-publications"
+  - title: "Research"
+    url: "/#-research"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
@@ -18,5 +18,5 @@ main:
   - title: "Invited Talks"
     url: "/#-invited-talks"
 
-  - title: "Internships"
-    url: "/#-internships"
+  - title: "Teaching Assistant"
+    url: "/#-teaching-assistant"
