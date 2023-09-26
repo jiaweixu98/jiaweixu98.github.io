@@ -29,7 +29,7 @@ I am a first-year Ph.D. student in Information Studies at the School of Informat
 <span class='anchor' id='news'></span>
 
 - **2023.11:** 🌎 I will attend the Santa Fe Institute Workshop: Understanding, Tracking, Predicting, and Influencing Social, Emotional, and Behavioral Dynamics During Public Health Crises in November.
-- 
+
 - **2023.08:** 🎉 I graduated from the Department of Information Management at Peking University (supervised by Doctor **Yi Bu**) and started pursuing my Ph.D. degree at the School of Information at UT Austin (supervised by Professor **Ying Ding**).
 
 # 📝 Research
