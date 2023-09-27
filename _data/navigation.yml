@@ -4,19 +4,19 @@ main:
     url: "/#about-me"
 
   - title: "News"
-    url: "/#-news"
+    url: "/#news"
 
   - title: "Research"
-    url: "/#-research"
+    url: "/#research"
 
   - title: "Honors"
-    url: "/#-honors-and-awards"
+    url: "/#honors-and-awards"
 
   - title: "Educations"
-    url: "/#-educations"
+    url: "/#educations"
 
   - title: "Invited Talks"
-    url: "/#-invited-talks"
+    url: "/#invited-talks"
 
   - title: "TA"
-    url: "/#-teaching-assistant"
+    url: "/#teaching-assistant"
