@@ -50,7 +50,7 @@ I am a first-year Ph.D. student in Information Studies at the School of Informat
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-# <span style="color: gold;">🎖</span> Honors and Awards
+# <span style="color: gold;">🎖</span> Honors
 
 <span class='anchor' id='honors-and-awards'></span>
 
@@ -74,7 +74,7 @@ I am a first-year Ph.D. student in Information Studies at the School of Informat
 
 <!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Teaching Assistant
+# 💻 TA
 
 <span class='anchor' id='teaching-assistant'></span>
 
