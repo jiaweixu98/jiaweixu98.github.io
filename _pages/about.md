@@ -17,23 +17,23 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, I'm Jiawei Xu (许家伟). Currently, I am a first-year Ph.D. student in Information Studies at the School of Information, UT Austin, under the guidance of Professor **[Ying Ding](https://yingding.ischool.utexas.edu/)**. Before joining Professor Ying Ding, I had the privilege to work with Doctor **[Yi Bu](https://buyi08.wixsite.com/yi-bu)** at the Department of Information Management, Peking University.
+Hello, my name is Jiawei Xu (许家伟). Currently, I am a first-year Ph.D. student in Information Studies at the School of Information, UT Austin, under the guidance of Professor **[Ying Ding](https://yingding.ischool.utexas.edu/)**. Before joining Professor Ying Ding, I had the privilege to work with Doctor **[Yi Bu](https://buyi08.wixsite.com/yi-bu)** at the Department of Information Management, Peking University.
 
-目前，我是德克萨斯大学信息学院的一年级博士研究生，受[Ying Ding教授](https://yingding.ischool.utexas.edu/)指导。在加入Ying Ding教授的团队之前，我曾有幸与北京大学信息管理系的[步一博士](https://buyi08.wixsite.com/yi-bu)合作。
+目前，我是德克萨斯大学信息学院的一年级博士研究生，受[Ying Ding](https://yingding.ischool.utexas.edu/)教授指导。在加入Ying Ding教授的团队之前，我曾有幸与北京大学信息管理系的[步一](https://buyi08.wixsite.com/yi-bu)博士合作。
 
 My passion lies in applying information science to address critical issues affecting humanity, seeking innovative solutions in areas such as scholarly communications, medical healthcare, and the dynamics of online platform communities. My general research interests encompass:
 
 - Data-driven Science of Science
 - Large Language Models
 
-我热衷于将信息科学运用于解决影响人类的重要问题，致力于在学术交流、医疗保健以及在线社区等领域寻找创新解决方案。我的研究兴趣包括：
+我想用信息科学在学术交流、医疗保健以及在线社区等领域寻找创新解决方案。我宽泛的研究兴趣包括：
 
 - 数据驱动的科学学
 - 大语言模型的应用
 
 I am eagerly looking forward to building an academic career after completing my Ph.D. If you are interested in my research or have intriguing ideas to discuss, please feel free to reach out to me at [jiaweixu@utexas.edu](mailto:jiaweixu@utexas.edu). I am committed to using information science as a tool to make a meaningful impact on the world, and I am excited to connect with others who share this passion.
 
-我期待在完成博士学业后继续投身科研、教学和社会服务。如果您对我的研究感兴趣或者有任何想聊的，欢迎通过[jiaweixu@utexas.edu](mailto:jiaweixu@utexas.edu)与我联系。
+我期待在完成博士学业后继续投身科研、教学和社会服务工作。如果您有任何想聊的，欢迎通过[jiaweixu@utexas.edu](mailto:jiaweixu@utexas.edu)与我联系。
 
 Beyond my academic pursuits, I am a devoted enthusiast of Chinese culture, history, and geography. Before beginning my journey at UT Austin, I spent most of my life in Jiyuan and Beijing.
 
@@ -47,7 +47,7 @@ Beyond my academic pursuits, I am a devoted enthusiast of Chinese culture, histo
 
 
 
-- **2023.11:** 🌎 I will attend the Santa Fe Institute Workshop: Understanding, Tracking, Predicting, and Influencing Social, Emotional, and Behavioral Dynamics During Public Health Crises in November.
+- **2023.11:** 🌎 I will attend the Santa Fe Institute Workshop: Understanding, Tracking, Predicting, and Influencing Social, Emotional, and Behavioral Dynamics During Public Health Crises.
 
 - **2023.08:** 🎉 I graduated from the Department of Information Management at Peking University (supervised by Doctor **Yi Bu**) and started pursuing my Ph.D. degree at the School of Information at UT Austin (supervised by Professor **Ying Ding**).
 
