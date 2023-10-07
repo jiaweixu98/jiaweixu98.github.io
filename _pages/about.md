@@ -17,10 +17,27 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first-year Ph.D. student in Information Studies at the School of Information, UT Austin, supervised by Professor **Ying Ding**. My research interests include:
+Hello, I'm Jiawei Xu (许家伟). Currently, I am a first-year Ph.D. student in Information Studies at the School of Information, UT Austin, under the guidance of Professor **[Ying Ding](https://yingding.ischool.utexas.edu/)**. Before joining Professor Ying Ding, I had the privilege to work with Doctor **[Yi Bu](https://buyi08.wixsite.com/yi-bu)** at the Department of Information Management, Peking University.
+
+目前，我是德克萨斯大学信息学院的一年级博士研究生，受[Ying Ding教授](https://yingding.ischool.utexas.edu/)指导。在加入Ying Ding教授的团队之前，我曾有幸与北京大学信息管理系的[步一博士](https://buyi08.wixsite.com/yi-bu)合作。
+
+My passion lies in applying information science to address critical issues affecting humanity, seeking innovative solutions in areas such as scholarly communications, medical healthcare, and the dynamics of online platform communities. My general research interests encompass:
 
 - Data-driven Science of Science
 - Large Language Models
+
+我热衷于将信息科学运用于解决影响人类的重要问题，致力于在学术交流、医疗保健以及在线社区等领域寻找创新解决方案。我的研究兴趣包括：
+
+- 数据驱动的科学学
+- 大语言模型的应用
+
+I am eagerly looking forward to building an academic career after completing my Ph.D. If you are interested in my research or have intriguing ideas to discuss, please feel free to reach out to me at [jiaweixu@utexas.edu](mailto:jiaweixu@utexas.edu). I am committed to using information science as a tool to make a meaningful impact on the world, and I am excited to connect with others who share this passion.
+
+我期待在完成博士学业后继续投身科研、教学和社会服务。如果您对我的研究感兴趣或者有任何想聊的，欢迎通过[jiaweixu@utexas.edu](mailto:jiaweixu@utexas.edu)与我联系。
+
+Beyond my academic pursuits, I am a devoted enthusiast of Chinese culture, history, and geography. Before beginning my journey at UT Austin, I spent most of my life in Jiyuan and Beijing.
+
+我热爱中国的文化、历史和地理。在开始我的奥斯汀之旅之前，我大部分的生活都在济源和北京度过。
 
 <a href='https://scholar.google.com/citations?user=dqFamHgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
