@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "LLLLLLLLLL"
+excerpt: "LLLLLLLLLL"
 author_profile: true
 redirect_from:
   - /about/
@@ -23,8 +23,8 @@ Hello, my name is Jiawei Xu (许家伟). Currently, I am a first-year Ph.D. stud
 
 My passion lies in applying information science to address critical issues affecting humanity, seeking innovative solutions in areas such as scholarly communications, medical healthcare, and the dynamics of online platform communities. My general research interests encompass:
 
-- Data-driven Science of Science
-- Large Language Models
+<!-- - Data-driven Science of Science
+- Large Language Models -->
 
 <!-- 我想用信息科学在学术交流、医疗保健以及在线社区等领域寻找创新解决方案。我宽泛的研究兴趣包括：
 
@@ -70,12 +70,12 @@ Beyond my academic pursuits, I am a devoted enthusiast of Chinese culture, histo
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-<span class='anchor' id='honors-and-awards'></span>
+<!-- <span class='anchor' id='honors-and-awards'></span>
 # <span style="color: gold;">🎖</span> Honors
 
 
 
-- **2023.07:** Excellent graduate of Beijing
+- **2023.07:** Excellent graduate of Beijing -->
 
 
 <span class='anchor' id='educations'></span>
