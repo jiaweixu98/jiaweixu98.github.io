@@ -9,6 +9,9 @@ main:
   - title: "Research"
     url: "/#research"
 
+  - title: "Teaching"
+    url: "/#teaching-assistant"
+
   # - title: "Honors"
   #   url: "/#honors-and-awards"
 
@@ -18,5 +21,4 @@ main:
   - title: "Invited Talks"
     url: "/#invited-talks"
 
-  - title: "TA"
-    url: "/#teaching-assistant"
+
