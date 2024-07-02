@@ -25,7 +25,7 @@ I am a Ph.D. student in Information Studies at the School of Information, UT Aus
 
 I am eagerly looking forward to building an academic career (aka, a researcher and a teacher) after completing my Ph.D.
 
-I am a fan of the culture of anywhere on earth! I am also a basketball fan.
+I am a fan of the culture of anywhere on earth! I am also a basketball fan. My Chinese name is 许家伟.
 
 <!-- <a href='https://scholar.google.com/citations?user=dqFamHgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 

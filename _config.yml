@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jiawei Xu (许家伟)"
+title                    : "Jiawei Xu"
 description              : ""
 repository               : "jiaweixu98/jiaweixu98.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,13 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jiawei Xu (许家伟)"
+  name             : "Jiawei Xu"
   avatar           : "images/android-chrome-512x512.png"
   bio              : 
   location         : "China - USA"
   employer         : "iSchool, UT Austin"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=dqFamHgAAAAJ"
+  semanticscholar   : "https://www.semanticscholar.org/author/Jiawei-Xu/2144295598"
   email            : "jiaweixu@utexas.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -57,7 +58,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  blog: "https://jiaweixu98.github.io/jiaweiBlog/"
+  blog: # "https://jiaweixu98.github.io/jiaweiBlog/"
 
 
 # Reading Files
