@@ -17,15 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I want to be a computational social scientist who utilizes data (PubMed, arXiv, social media, etc) to secure humanity, seeking patterns and solutions in scholarly communications and healthcare.
+I am a Ph.D. student in Information Studies at the School of Information, UT Austin, working in the [AI Health Lab](https://aihealth.ischool.utexas.edu/) under the supervision of Professor **[Ying Ding](https://yingding.ischool.utexas.edu/)**. Before joining Professor Ding's team, I collaborated with Doctor **[Yi Bu](https://buyi08.wixsite.com/yi-bu)** at the Department of Information Management, Peking University.
 
-I also want to become an educator who can teach in an easy-to-understand and intriguing way.
+My aspiration is to become a computational social scientist, leveraging data from sources such as PubMed, arXiv, and social media to uncover patterns and solutions in scholarly communications and healthcare. 
 
-I am a Ph.D. student in Information Studies at the School of Information, UT Austin, supervised by Professor **[Ying Ding](https://yingding.ischool.utexas.edu/)**. Before joining Professor Ying Ding's team, I worked with Doctor **[Yi Bu](https://buyi08.wixsite.com/yi-bu)** at the Department of Information Management, at Peking University.
+I also aim to become an educator, teaching complex concepts in an engaging and easily understandable manner.
 
-I am eagerly looking forward to building an academic career (aka, a researcher and a teacher) after completing my Ph.D.
+I am eagerly looking forward to an academic career that combines research and teaching after completing my Ph.D.
 
-I am a fan of the culture of anywhere on earth! I am also a basketball fan. My Chinese name is 许家伟.
+I am a fan of cultures from all around the world and a passionate basketball enthusiast. My Chinese name is 许家伟.
 
 <!-- <a href='https://scholar.google.com/citations?user=dqFamHgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 
