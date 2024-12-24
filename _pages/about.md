@@ -19,11 +19,7 @@ redirect_from:
 
 I am a second-year Ph.D. student in Information Studies at the School of Information, UT Austin, working in the [AI Health Lab](https://aihealth.ischool.utexas.edu/) under the supervision of Professor **[Ying Ding](https://yingding.ischool.utexas.edu/)**. Before joining Professor Ding's team, I collaborated with Doctor **[Yi Bu](https://buyi08.wixsite.com/yi-bu)** at the Department of Information Management, Peking University.
 
-My aspiration is to become a computational social scientist, leveraging data from sources such as PubMed, arXiv, and social media to uncover patterns and solutions in scholarly communications and healthcare. 
-
-I also aim to become an educator, teaching complex concepts in an engaging and easily understandable manner.
-
-I am eagerly looking forward to an academic career that combines research and teaching after completing my Ph.D.
+My aspiration is to become a computational social scientist to uncover patterns and solutions in healthcare and scholarly communications. I am eagerly looking forward to an academic career that combines research and teaching after completing my Ph.D.
 
 My Chinese name is 许家伟.
 <!-- I am a fan of cultures from all around the world and a passionate basketball enthusiast. My Chinese name is 许家伟. -->
@@ -55,7 +51,7 @@ Kyle Cox, **Jiawei Xu**, Yikun Han, Rong Xu, Tianhao Li, Chi-Yang Hsu, Tianlong 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ML4H 2024</div><img src='images/ml4h_2024__path_rag.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**[ML4H 2024]**Path-RAG: Knowledge-Guided Key Region Retrieval for Open-ended Pathology Visual Question Answering](https://arxiv.org/abs/2411.17073)
+[**[ML4H 2024]** Path-RAG: Knowledge-Guided Key Region Retrieval for Open-ended Pathology Visual Question Answering](https://arxiv.org/abs/2411.17073)
 
 Awais Naeem, Tianhao Li, Huang-Ru Liao, **Jiawei Xu**, Aby M. Mathew, Zehao Zhu, Zhen Tan, Ajay Kumar Jaiswal, Raffi A. Salibian, Ziniu Hu, Tianlong Chen, Ying Ding.
 
