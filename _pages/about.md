@@ -27,10 +27,6 @@ My Chinese name is 许家伟.
 <a href='https://scholar.google.com/citations?user=dqFamHgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 
-<!-- <span class='anchor' id='news'></span>
-# 🔥 News
-
-- **2023.11:** 🌎 Santa Fe Institute Workshop: Understanding, Tracking, Predicting, and Influencing Social, Emotional, and Behavioral Dynamics During Public Health Crises. Our work: [Psychological States Impact on Pandemic.](https://github.com/jiaweixu98/pagesRepo/blob/main/Psychological%20States%20Impact%20on%20Pandemic.pdf) -->
 
 <span class='anchor' id='research'></span>
 # 📝 Research
@@ -63,7 +59,7 @@ Awais Naeem, Tianhao Li, Huang-Ru Liao, **Jiawei Xu**, Aby M. Mathew, Zehao Zhu,
 
 - [**[JCDL 2024]** Decoding Patterns of Data Generation Teams for Clinical and Scientific Success: Insights from the Bridge2AI Talent Knowledge Graph](https://jiaweixu98.github.io/), **Jiawei Xu**, Qingnan Xie, Meijun Liu, Zhandos Sembay, Swathi Thaker, Pamela Payne-Foster, Jake Yue Chen, Ying Ding. JCDL 2024.
 
-- [**[NeurIPS 2024 (Workshop)]** Demo: Interactive Visualization of Semantic Relationships in a Biomedical Project's Talent Knowledge Graph](https://openreview.net/pdf?id=l0hhJip6fC), **Jiawei Xu**, Zhandos Sembay, Swathi Thaker, Pamela Payne-Foster, Jake Yue Chen, Ying Ding. NeurIPS 2024: GenAI4Health Workshop.
+- [**[NeurIPS 2024 (Workshop)]** Demo: Interactive Visualization of Semantic Relationships in a Biomedical Project's Talent Knowledge Graph](https://openreview.net/pdf?id=l0hhJip6fC), **Jiawei Xu**, Zhandos Sembay, Swathi Thaker, Pamela Payne-Foster, Jake Yue Chen, Ying Ding. NeurIPS 2024: GenAI4Health Workshop.[CM4AI Knowledge Graph](https://cm4ai.org/ckg)
 
 - [**[NeurIPS 2024 (Workshop)]** Position: Open and Closed Large Language Models in Healthcare](https://openreview.net/pdf?id=wFnzrOXxiB), **Jiawei Xu**, Ying Ding, Yi Bu. NeurIPS 2024: GenAI4Health Workshop.
 
@@ -77,6 +73,14 @@ Awais Naeem, Tianhao Li, Huang-Ru Liao, **Jiawei Xu**, Aby M. Mathew, Zehao Zhu,
 
 
 - **2023.07:** Excellent graduate of Beijing -->
+
+
+<span class='anchor' id='news'></span>
+# 🔥 News
+- We built an interactive knowledge graph demo for the Bridge2AI CM4AI project ([https://cm4ai.org/](https://cm4ai.org/)). Our work: [CM4AI Knowledge Graph](https://cm4ai.org/ckg)
+
+
+
 <span class='anchor' id='teaching-assistant'></span>
 # 💻 Teaching
 
