@@ -65,6 +65,9 @@ Awais Naeem, Tianhao Li, Huang-Ru Liao, **Jiawei Xu**, Aby M. Mathew, Zehao Zhu,
 
 - [**[Web Conference 2024 (Companion)]** Thought Graph: Generating Thought Process for Biological Reasoning](https://dl.acm.org/doi/abs/10.1145/3589335.3651572), Chi-Yang Hsu, Kyle Cox, **Jiawei Xu**, Zhen Tan, Tianhua Zhai, Mengzhou Hu, Dexter Pratt, Tianlong Chen, Ziniu Hu, Ying Ding. Companion Proceedings of the ACM on Web Conference 2024, 537-540.
 
+- [**[AAAI 2025 (Workshop)]** LLM-TA: An LLM-Enhanced Thematic Analysis Pipeline for Transcripts from Parents of Children with Congenital Heart Disease](https://openreview.net/pdf?id=wFnzrOXxiB), Muhammad Zain Raza* (co-first author), **Jiawei Xu*** (co-first author), Terence Lim, Lily Boddy, Carlos M. Mery, Andrew Well, Ying Ding. AAAI 2025: GenAI4Health Workshop.
+
+
 - [**[ISSI 2021]** Interdisciplinarity vs. Unidisciplinarity: A structural comparison of multi-generation citations and references](https://www.researchgate.net/profile/Jiawei-Xu-25/publication/353996807_Interdisciplinarity_vs_Unidisciplinarity_A_Structural_Comparison_of_Multi-generation_Citations_and_References/links/611df4151e95fe241adff733/Interdisciplinarity-vs-Unidisciplinarity-A-Structural-Comparison-of-Multi-generation-Citations-and-References.pdf), **Jiawei Xu**, Chao Min, Win-bin Huang, Yi Bu. ISSI 2021.
 
 <!-- <span class='anchor' id='honors-and-awards'></span>
