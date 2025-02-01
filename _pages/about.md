@@ -23,8 +23,8 @@ My aspiration is to become a computational social scientist to uncover patterns 
 
 My Chinese name is 许家伟.
 <!-- I am a fan of cultures from all around the world and a passionate basketball enthusiast. My Chinese name is 许家伟. -->
-
-<a href='https://scholar.google.com/citations?user=dqFamHgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+<!-- 
+<a href='https://scholar.google.com/citations?user=dqFamHgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 
 
 
