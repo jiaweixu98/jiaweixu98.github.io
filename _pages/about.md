@@ -34,11 +34,11 @@ My Chinese name is 许家伟.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/AAAI_2025_UQ.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**[AAAI 2025]** Mapping from Meaning: Addressing the Miscalibration of Prompt-Sensitive Language Models](https://github.com/xocelyk/paraphrase-uncertainty)
+[**[AAAI 2025]** Mapping from Meaning: Addressing the Miscalibration of Prompt-Sensitive Language Models](https://yikunhan.me/pdfs/AAAI_2025_UQ_LLM.pdf)
 
 Kyle Cox, **Jiawei Xu**, Yikun Han, Rong Xu, Tianhao Li, Chi-Yang Hsu, Tianlong Chen, Walter Gerych, Ying Ding.
 
-**(To Appear in) AAAI, 2025**.
+**AAAI, 2025**.
 [**Code**](https://github.com/xocelyk/paraphrase-uncertainty) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
@@ -56,16 +56,15 @@ Awais Naeem, Tianhao Li, Huang-Ru Liao, **Jiawei Xu**, Aby M. Mathew, Zehao Zhu,
 </div>
 </div>
 
+- [**[AAAI 2025 (Workshop)]** LLM-TA: An LLM-Enhanced Thematic Analysis Pipeline for Transcripts from Parents of Children with Congenital Heart Disease](https://openreview.net/pdf?id=wFnzrOXxiB), **Jiawei Xu*** (co-first author), Muhammad Zain Raza* (co-first author), Terence Lim, Lily Boddy, Carlos M. Mery, Andrew Well, Ying Ding. AAAI 2025: GenAI4Health Workshop.
 
-- [**[JCDL 2024]** Decoding Patterns of Data Generation Teams for Clinical and Scientific Success: Insights from the Bridge2AI Talent Knowledge Graph](https://jiaweixu98.github.io/), **Jiawei Xu**, Qingnan Xie, Meijun Liu, Zhandos Sembay, Swathi Thaker, Pamela Payne-Foster, Jake Yue Chen, Ying Ding. JCDL 2024.
+- [**[JCDL 2024]** Decoding Patterns of Data Generation Teams for Clinical and Scientific Success: Insights from the Bridge2AI Talent Knowledge Graph](https://arxiv.org/abs/2501.09897), **Jiawei Xu**, Qingnan Xie, Meijun Liu, Zhandos Sembay, Swathi Thaker, Pamela Payne-Foster, Jake Yue Chen, Ying Ding. JCDL 2024.
 
 - [**[NeurIPS 2024 (Workshop)]** Demo: Interactive Visualization of Semantic Relationships in a Biomedical Project's Talent Knowledge Graph](https://openreview.net/pdf?id=l0hhJip6fC), **Jiawei Xu**, Zhandos Sembay, Swathi Thaker, Pamela Payne-Foster, Jake Yue Chen, Ying Ding. NeurIPS 2024: GenAI4Health Workshop.[CM4AI Knowledge Graph](https://cm4ai.org/ckg)
 
 - [**[NeurIPS 2024 (Workshop)]** Position: Open and Closed Large Language Models in Healthcare](https://openreview.net/pdf?id=wFnzrOXxiB), **Jiawei Xu**, Ying Ding, Yi Bu. NeurIPS 2024: GenAI4Health Workshop.
 
 - [**[Web Conference 2024 (Companion)]** Thought Graph: Generating Thought Process for Biological Reasoning](https://dl.acm.org/doi/abs/10.1145/3589335.3651572), Chi-Yang Hsu, Kyle Cox, **Jiawei Xu**, Zhen Tan, Tianhua Zhai, Mengzhou Hu, Dexter Pratt, Tianlong Chen, Ziniu Hu, Ying Ding. Companion Proceedings of the ACM on Web Conference 2024, 537-540.
-
-- [**[AAAI 2025 (Workshop)]** LLM-TA: An LLM-Enhanced Thematic Analysis Pipeline for Transcripts from Parents of Children with Congenital Heart Disease](https://openreview.net/pdf?id=wFnzrOXxiB), Muhammad Zain Raza* (co-first author), **Jiawei Xu*** (co-first author), Terence Lim, Lily Boddy, Carlos M. Mery, Andrew Well, Ying Ding. AAAI 2025: GenAI4Health Workshop.
 
 
 - [**[ISSI 2021]** Interdisciplinarity vs. Unidisciplinarity: A structural comparison of multi-generation citations and references](https://www.researchgate.net/profile/Jiawei-Xu-25/publication/353996807_Interdisciplinarity_vs_Unidisciplinarity_A_Structural_Comparison_of_Multi-generation_Citations_and_References/links/611df4151e95fe241adff733/Interdisciplinarity-vs-Unidisciplinarity-A-Structural-Comparison-of-Multi-generation-Citations-and-References.pdf), **Jiawei Xu**, Chao Min, Win-bin Huang, Yi Bu. ISSI 2021.
