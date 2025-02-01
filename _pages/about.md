@@ -58,6 +58,8 @@ Awais Naeem, Tianhao Li, Huang-Ru Liao, **Jiawei Xu**, Aby M. Mathew, Zehao Zhu,
 
 - [**[AAAI 2025 (Workshop)]** LLM-TA: An LLM-Enhanced Thematic Analysis Pipeline for Transcripts from Parents of Children with Congenital Heart Disease](https://openreview.net/pdf?id=wFnzrOXxiB), **Jiawei Xu*** (co-first author), Muhammad Zain Raza* (co-first author), Terence Lim, Lily Boddy, Carlos M. Mery, Andrew Well, Ying Ding. AAAI 2025: GenAI4Health Workshop.
 
+- **[TBD 2025]** MedHallu: A Comprehensive Benchmark for Detecting Medical Hallucinations in Large Language Models. Shrey Pandit, **Jiawei Xu**, Ying Ding. Submission.
+
 - [**[JCDL 2024]** Decoding Patterns of Data Generation Teams for Clinical and Scientific Success: Insights from the Bridge2AI Talent Knowledge Graph](https://arxiv.org/abs/2501.09897), **Jiawei Xu**, Qingnan Xie, Meijun Liu, Zhandos Sembay, Swathi Thaker, Pamela Payne-Foster, Jake Yue Chen, Ying Ding. JCDL 2024.
 
 - [**[NeurIPS 2024 (Workshop)]** Demo: Interactive Visualization of Semantic Relationships in a Biomedical Project's Talent Knowledge Graph](https://openreview.net/pdf?id=l0hhJip6fC), **Jiawei Xu**, Zhandos Sembay, Swathi Thaker, Pamela Payne-Foster, Jake Yue Chen, Ying Ding. NeurIPS 2024: GenAI4Health Workshop.[CM4AI Knowledge Graph](https://cm4ai.org/ckg)
@@ -85,7 +87,7 @@ Awais Naeem, Tianhao Li, Huang-Ru Liao, **Jiawei Xu**, Aby M. Mathew, Zehao Zhu,
 
 <span class='anchor' id='teaching-assistant'></span>
 # 💻 Teaching
-
+- **2024 - 2025:** Tutorials on LLM API and LangChain, UT Austin
 - **2021 - 2023:** Data Visualization, Peking University, Teaching Assistant.
 - **2022:** Complex Networks, Peking University, Teaching Assistant.
 
