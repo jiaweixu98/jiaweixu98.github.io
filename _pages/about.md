@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
+<!-- {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
 {% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %} -->
 
 <span class='anchor' id='about-me'></span>
 
@@ -58,7 +58,7 @@ Awais Naeem, Tianhao Li, Huang-Ru Liao, **Jiawei Xu**, Aby M. Mathew, Zehao Zhu,
 
 - [**[AAAI 2025 (Workshop)]** LLM-TA: An LLM-Enhanced Thematic Analysis Pipeline for Transcripts from Parents of Children with Congenital Heart Disease](https://openreview.net/pdf?id=wFnzrOXxiB), **Jiawei Xu*** (co-first author), Muhammad Zain Raza* (co-first author), Terence Lim, Lily Boddy, Carlos M. Mery, Andrew Well, Ying Ding. AAAI 2025: GenAI4Health Workshop.
 
-- **[TBD 2025]** MedHallu: A Comprehensive Benchmark for Detecting Medical Hallucinations in Large Language Models. Shrey Pandit, **Jiawei Xu**, Ying Ding. Submission.
+<!-- - **[TBD 2025]** MedHallu: A Comprehensive Benchmark for Detecting Medical Hallucinations in Large Language Models. Shrey Pandit, **Jiawei Xu**, Ying Ding. Submission. -->
 
 - [**[JCDL 2024]** Decoding Patterns of Data Generation Teams for Clinical and Scientific Success: Insights from the Bridge2AI Talent Knowledge Graph](https://arxiv.org/abs/2501.09897), **Jiawei Xu**, Qingnan Xie, Meijun Liu, Zhandos Sembay, Swathi Thaker, Pamela Payne-Foster, Jake Yue Chen, Ying Ding. JCDL 2024.
 
