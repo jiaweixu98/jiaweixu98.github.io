@@ -56,7 +56,7 @@ Awais Naeem, Tianhao Li, Huang-Ru Liao, **Jiawei Xu**, Aby M. Mathew, Zehao Zhu,
 </div>
 </div>
 
-- [**[AAAI 2025 (Workshop)]** LLM-TA: An LLM-Enhanced Thematic Analysis Pipeline for Transcripts from Parents of Children with Congenital Heart Disease](https://openreview.net/pdf?id=wFnzrOXxiB), **Jiawei Xu*** (co-first author), Muhammad Zain Raza* (co-first author), Terence Lim, Lily Boddy, Carlos M. Mery, Andrew Well, Ying Ding. AAAI 2025: GenAI4Health Workshop.
+- [**[AAAI 2025 (Workshop)]** LLM-TA: An LLM-Enhanced Thematic Analysis Pipeline for Transcripts from Parents of Children with Congenital Heart Disease](https://arxiv.org/pdf/2502.01620), **Jiawei Xu*** (co-first author), Muhammad Zain Raza* (co-first author), Terence Lim, Lily Boddy, Carlos M. Mery, Andrew Well, Ying Ding. AAAI 2025: GenAI4Health Workshop.
 
 <!-- - **[TBD 2025]** MedHallu: A Comprehensive Benchmark for Detecting Medical Hallucinations in Large Language Models. Shrey Pandit, **Jiawei Xu**, Ying Ding. Submission. -->
 
