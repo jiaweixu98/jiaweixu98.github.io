@@ -40,9 +40,31 @@ Kyle Cox, **Jiawei Xu**, Yikun Han, Rong Xu, Tianhao Li, Chi-Yang Hsu, Tianlong 
 
 **AAAI, 2025**.
 [**Code**](https://github.com/xocelyk/paraphrase-uncertainty) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-<!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
 </div>
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TBD 2025</div><img src='images/med_halu.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**[TBD 2025]** MedHallu: A Comprehensive Benchmark for Detecting Medical Hallucinations in Large Language Models](https://medhallu.github.io/)
+
+Shrey Pandit, **Jiawei Xu**, Junyuan Hong, Zhangyang Wang, Tianlong Chen, Kaidi Xu, Ying Ding.
+
+**TBD, 2025**.
+[**Code & Paper**](https://medhallu.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
+
+
+
+
+
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ML4H 2024</div><img src='images/ml4h_2024__path_rag.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
