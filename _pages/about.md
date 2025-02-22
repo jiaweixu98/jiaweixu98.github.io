@@ -44,7 +44,7 @@ Kyle Cox, **Jiawei Xu**, Yikun Han, Rong Xu, Tianhao Li, Chi-Yang Hsu, Tianlong 
 </div>
 
 
-
+<!-- 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TBD 2025</div><img src='images/med_halu.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -57,7 +57,7 @@ Shrey Pandit, **Jiawei Xu**, Junyuan Hong, Zhangyang Wang, Tianlong Chen, Kaidi 
 [**Code & Paper**](https://medhallu.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
-
+ -->
 
 
 
