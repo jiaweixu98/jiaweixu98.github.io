@@ -30,11 +30,11 @@ My Chinese name is 许家伟.
 <span class='anchor' id='news'></span>
 # 🔥 News
 
-* **May 2025:** I will work as an applied scientist intern at Amazon Search (Palo Alto, CA) during the summer.
+* **May 2025:** I start working as an applied scientist intern at Amazon Search (Palo Alto, CA) during the summer.
 
 * **April 2025:** A paper was accepted at **The Journal of the Association for Information Science and Technology (JASIST)**, will appear soon.
 
-* **February 2025:** I developed an interactive knowledge graph visualization, which has been adopted by the **NIH Common Fund's Bridge to Artificial Intelligence (Bridge2AI) program** and featured on their [official landing page](https://bridge2ai.org/). For more details, please see my paper ["Demo: Interactive Visualization of Semantic Relationships in a Biomedical Project's Talent Knowledge Graph"](https://arxiv.org/pdf/2501.09909) and explore the [visualization itself](https://jiawei-alpha.vercel.app/).
+<!-- * **February 2025:** I developed an interactive knowledge graph visualization, which has been adopted by the **NIH Common Fund's Bridge to Artificial Intelligence (Bridge2AI) program** and featured on their [official landing page](https://bridge2ai.org/). For more details, please see my paper ["Demo: Interactive Visualization of Semantic Relationships in a Biomedical Project's Talent Knowledge Graph"](https://arxiv.org/pdf/2501.09909) and explore the [visualization itself](https://cm4aikg.vercel.app/). -->
 
 * **February 2025:** A paper was presented at **AAAI 2025**.
 
@@ -107,7 +107,7 @@ Awais Naeem, Tianhao Li, Huang-Ru Liao, **Jiawei Xu**, Aby M. Mathew, Zehao Zhu,
 
 - [**[JCDL 2024]** Decoding Patterns of Data Generation Teams for Clinical and Scientific Success: Insights from the Bridge2AI Talent Knowledge Graph](https://arxiv.org/abs/2501.09897), **Jiawei Xu**, Qingnan Xie, Meijun Liu, Zhandos Sembay, Swathi Thaker, Pamela Payne-Foster, Jake Yue Chen, Ying Ding. JCDL 2024.
 
-- [**[NeurIPS 2024 (Workshop)]** Demo: Interactive Visualization of Semantic Relationships in a Biomedical Project's Talent Knowledge Graph](https://arxiv.org/pdf/2501.09909), **Jiawei Xu**, Zhandos Sembay, Swathi Thaker, Pamela Payne-Foster, Jake Yue Chen, Ying Ding. NeurIPS 2024: GenAI4Health Workshop.[CM4AI Knowledge Graph](https://cm4ai.org/ckg)
+- [**[NeurIPS 2024 (Workshop)]** Demo: Interactive Visualization of Semantic Relationships in a Biomedical Project's Talent Knowledge Graph](https://arxiv.org/pdf/2501.09909), **Jiawei Xu**, Zhandos Sembay, Swathi Thaker, Pamela Payne-Foster, Jake Yue Chen, Ying Ding. NeurIPS 2024: GenAI4Health Workshop.[CM4AI Knowledge Graph](https://cm4aikg.vercel.app/)
 
 - [**[NeurIPS 2024 (Workshop)]** Position: Open and Closed Large Language Models in Healthcare](https://openreview.net/pdf?id=wFnzrOXxiB), **Jiawei Xu**, Ying Ding, Yi Bu. NeurIPS 2024: GenAI4Health Workshop.
 
