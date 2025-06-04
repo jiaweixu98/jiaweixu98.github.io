@@ -32,7 +32,7 @@ My Chinese name is 许家伟.
 
 * **May 2025:** I start working as an applied scientist intern at Amazon Search (Palo Alto, CA) during the summer.
 
-* **April 2025:** A paper was accepted at **The Journal of the Association for Information Science and Technology (JASIST)**, will appear soon.
+* **April 2025:** A paper was accepted at **The Journal of the Association for Information Science and Technology (JASIST)**.
 
 <!-- * **February 2025:** I developed an interactive knowledge graph visualization, which has been adopted by the **NIH Common Fund's Bridge to Artificial Intelligence (Bridge2AI) program** and featured on their [official landing page](https://bridge2ai.org/). For more details, please see my paper ["Demo: Interactive Visualization of Semantic Relationships in a Biomedical Project's Talent Knowledge Graph"](https://arxiv.org/pdf/2501.09909) and explore the [visualization itself](https://cm4aikg.vercel.app/). -->
 
@@ -46,12 +46,12 @@ My Chinese name is 许家伟.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JASIST 2025</div><img src='images/jasist_2025.png' alt="Knowledge integration and diffusion structures of interdisciplinary research" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**[JASIST 2025]** Knowledge integration and diffusion structures of interdisciplinary research: A large-scale analysis based on propensity score matching]()
+[**[JASIST 2025]** Knowledge integration and diffusion structures of interdisciplinary research: A large-scale analysis based on propensity score matching](https://asistdl.onlinelibrary.wiley.com/doi/full/10.1002/asi.25014)
 
 **Jiawei Xu**, Zhihan Zheng, Chao Min, Win-bin Huang, and Yi Bu.
 
 **The Journal of the Association for Information Science and Technology (JASIST), 2025**.
-[**Code and paper will appear soon**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Code**](https://github.com/jiaweixu98/SciSci_IDR_vs_UDR) [**Paper**](https://asistdl.onlinelibrary.wiley.com/doi/full/10.1002/asi.25014)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 
