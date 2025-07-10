@@ -1,42 +1,60 @@
 ---
 permalink: /
-title: "LLLLLLLLLL"
-excerpt: "LLLLLLLLLL"
+title: "Jiawei Xu - Ph.D. Student in Information Studies at UT Austin"
+excerpt: "Ph.D. student in Information Studies at UT Austin, working in AI Health Lab. Research focuses on computational social science, healthcare, and scholarly communications."
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-<!-- {% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %} -->
-
 <span class='anchor' id='about-me'></span>
 
-I am a second-year Ph.D. student in Information Studies at the School of Information, UT Austin, working in the [AI Health Lab](https://aihealth.ischool.utexas.edu/) under the supervision of Professor **[Ying Ding](https://yingding.ischool.utexas.edu/)**. Before joining Professor Ding's team, I collaborated with Doctor **[Yi Bu](https://buyi08.wixsite.com/yi-bu)** at the Department of Information Management, Peking University.
+I am an incoming third-year Ph.D. student in Information Studies at the School of Information, UT Austin, working in the [AI Health Lab](https://aihealth.ischool.utexas.edu/) under the supervision of Professor **[Ying Ding](https://yingding.ischool.utexas.edu/)**. Before joining Professor Ding's team, I collaborated with Doctor **[Yi Bu](https://buyi08.wixsite.com/yi-bu)** at the Department of Information Management, Peking University.
 
 My aspiration is to become a computational social scientist to uncover patterns and solutions in healthcare and scholarly communications. I am eagerly looking forward to an academic career that combines research and teaching after completing my Ph.D.
 
 My Chinese name is 许家伟.
-<!-- I am a fan of cultures from all around the world and a passionate basketball enthusiast. My Chinese name is 许家伟. -->
-<!-- 
-<a href='https://scholar.google.com/citations?user=dqFamHgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 
 
 <span class='anchor' id='news'></span>
 # 🔥 News
 
-* **May 2025:** I start working as an applied scientist intern at Amazon Search (Palo Alto, CA) during the summer.
+* **December 2025:**  
+  <div style="display: flex; align-items: center; gap: 20px; margin: 15px 0; padding: 15px; background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); border-radius: 12px;">
+    <div style="flex: 1; line-height: 1.4;">I am organizing the <a href="https://aihealth.ischool.utexas.edu/GenAI4HealthNeurips2025/" target="_blank" rel="noopener noreferrer">GenAI4Health Workshop</a> at NeurIPS 2025.</div>
+    <a href="https://aihealth.ischool.utexas.edu/GenAI4HealthNeurips2025/" target="_blank" rel="noopener noreferrer">
+      <img src="/images/genai4health2025.png" alt="GenAI4Health Workshop 2025" style="max-width: 180px; height: auto; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15); flex-shrink: 0; transition: transform 0.3s ease, box-shadow 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 6px 20px rgba(0,0,0,0.2)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 15px rgba(0,0,0,0.15)'" />
+    </a>
+  </div>
 
-* **April 2025:** A paper was accepted at **The Journal of the Association for Information Science and Technology (JASIST)**.
+* **May 2025:** 
+  <div style="margin: 15px 0; padding: 15px; background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); border-radius: 12px; line-height: 1.4;">
+    I start working as an applied scientist intern at Amazon Search (Palo Alto, CA) during the summer.
+  </div>
 
-<!-- * **February 2025:** I developed an interactive knowledge graph visualization, which has been adopted by the **NIH Common Fund's Bridge to Artificial Intelligence (Bridge2AI) program** and featured on their [official landing page](https://bridge2ai.org/). For more details, please see my paper ["Demo: Interactive Visualization of Semantic Relationships in a Biomedical Project's Talent Knowledge Graph"](https://arxiv.org/pdf/2501.09909) and explore the [visualization itself](https://cm4aikg.vercel.app/). -->
+* **April 2025:** 
+  <div style="margin: 15px 0; padding: 15px; background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); border-radius: 12px; line-height: 1.4;">
+    A paper was accepted at <strong>The Journal of the Association for Information Science and Technology (JASIST)</strong>.
+  </div>
 
-* **February 2025:** A paper was presented at **AAAI 2025**.
+* **February 2025:** 
+  <div style="margin: 15px 0; padding: 15px; background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); border-radius: 12px; line-height: 1.4;">
+    I built an interactive knowledge graph visualization for the NIH Bridge2AI program: <a href="https://cm4aikg.vercel.app/" target="_blank" rel="noopener noreferrer">CM4AI Knowledge Graph</a>. I also developed a teaming recommendation demo: <a href="https://cm4aiteaming.streamlit.app/?aid=6052561" target="_blank" rel="noopener noreferrer">CM4AI Teaming</a>.
+  </div>
+  
+  <div style="display: flex; align-items: center; gap: 20px; margin: 15px 0; padding: 15px; background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); border-radius: 12px;">
+    <a href="https://cm4aikg.vercel.app/" target="_blank" rel="noopener noreferrer">
+      <img src="/images/bridge2aikg.png" alt="CM4AI Knowledge Graph" style="max-width: 250px; height: auto; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15); flex-shrink: 0; transition: transform 0.3s ease, box-shadow 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 6px 20px rgba(0,0,0,0.2)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 15px rgba(0,0,0,0.15)'" />
+    </a>
+    <a href="https://cm4aiteaming.streamlit.app/?aid=6052561" target="_blank" rel="noopener noreferrer">
+      <img src="/images/teaming demo.png" alt="CM4AI Teaming Demo" style="max-width: 350px; height: auto; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15); flex-shrink: 0; transition: transform 0.3s ease, box-shadow 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 6px 20px rgba(0,0,0,0.2)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 15px rgba(0,0,0,0.15)'" />
+    </a>
+  </div>
+  
+  <div style="margin: 15px 0; padding: 15px; background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); border-radius: 12px; line-height: 1.4;">
+    A paper was presented at <strong>AAAI 2025</strong>.
+  </div>
 
 
 <span class='anchor' id='research'></span>
@@ -127,11 +145,22 @@ Awais Naeem, Tianhao Li, Huang-Ru Liao, **Jiawei Xu**, Aby M. Mathew, Zehao Zhu,
 
 
 
-<span class='anchor' id='teaching-assistant'></span>
-# 💻 Teaching
-- **2024 - 2025:** Tutorials on LLM API and LangChain, UT Austin
-- **2021 - 2023:** Data Visualization, Peking University, Teaching Assistant.
-- **2022:** Complex Networks, Peking University, Teaching Assistant.
+<span class='anchor' id='teaching-and-service'></span>
+# 🎓 Teaching and Service
+
+### Teaching
+
+&nbsp;&nbsp;&nbsp;&nbsp;- **2024 - 2025:** Teaching on LLM Multi-agent building, UT Austin  
+&nbsp;&nbsp;&nbsp;&nbsp;- **2021 - 2023:** Data Visualization, Peking University, Teaching Assistant.  
+&nbsp;&nbsp;&nbsp;&nbsp;- **2022:** Complex Networks, Peking University, Teaching Assistant.
+
+### Service
+
+&nbsp;&nbsp;&nbsp;&nbsp;- **2025:** Organizing the [GenAI4Health Workshop](https://aihealth.ischool.utexas.edu/GenAI4HealthNeurips2025/) at NeurIPS 2025.
+
+### Invited Talks
+
+&nbsp;&nbsp;&nbsp;&nbsp;- **2023.08:** "Beyond Correlation: What Factors Influence Scientific Performance" (with Yi Bu and Yang Ding).
 
 <span class='anchor' id='educations'></span>
 # 📖 Educations
@@ -143,13 +172,6 @@ Awais Naeem, Tianhao Li, Huang-Ru Liao, **Jiawei Xu**, Aby M. Mathew, Zehao Zhu,
 - **2021.09 - 2023.06:** M.S. in Information Science, Department of Information Management, Peking University, supervised by Doctor **Yi Bu**.
 
 - **2017.09 - 2021.06:** B.Mngt. in Information Management & Information System, Department of Information Management, Peking University.
-
-<span class='anchor' id='invited-talks'></span>
-# 💬 Invited Talks
-
-
-
-- **2023.08:** "Beyond Correlation: What Factors Influence Scientific Performance" (with Yi Bu and Yang Ding).
 
 <!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 

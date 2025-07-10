@@ -7,8 +7,9 @@
 
 # Site Settings
 title                    : "Jiawei Xu"
-description              : ""
+description              : "Ph.D. student in Information Studies at UT Austin, working in AI Health Lab. Research focuses on computational social science, healthcare, and scholarly communications."
 repository               : "jiaweixu98/jiaweixu98.github.io"
+url                      : "https://jiaweixu98.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,7 +24,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jiawei Xu"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : 
+  bio              : "Ph.D. student in Information Studies at UT Austin, working in AI Health Lab. Research focuses on computational social science, healthcare, and scholarly communications."
   location         : "China - USA"
   employer         : "iSchool, UT Austin"
   pubmed           : 
