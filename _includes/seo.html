@@ -31,7 +31,8 @@
 
 <meta property="og:locale" content="en">
 <meta property="og:site_name" content="{{ site.title }}">
-<meta property="og:title" content="{{ site.title }}">
+<meta property="og:title" content="{{ page.title | default: site.title | markdownify | strip_html | strip_newlines | escape_once }}">
+<meta property="og:type" content="website">
 
 {% if seo_url %}
   <link rel="canonical" href="{{ page.url | prepend: seo_url | replace: "/index.html", "/" }}">
@@ -40,6 +41,16 @@
 
 {% if page.excerpt %}
   <meta property="og:description" content="{{ seo_description }}">
+{% endif %}
+
+{% if seo_description %}
+  <meta name="description" content="{{ seo_description }}">
+{% endif %}
+
+{% if site.author.avatar %}
+  <meta property="og:image" content="{{ site.author.avatar | prepend: seo_url }}">
+  <meta property="og:image:width" content="512">
+  <meta property="og:image:height" content="512">
 {% endif %}
 
 {% if site.twitter.username %}

@@ -12,6 +12,13 @@ repository               : "jiaweixu98/jiaweixu98.github.io"
 url                      : "https://jiaweixu98.github.io"
 google_scholar_stats_use_cdn : true
 
+# GitHub Metadata (for local development)
+github:
+  repository_url: "https://github.com/jiaweixu98/jiaweixu98.github.io"
+  repository_nwo: "jiaweixu98/jiaweixu98.github.io"
+  # This helps suppress the authentication warning in local development
+  repository: "jiaweixu98/jiaweixu98.github.io"
+
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
@@ -24,6 +31,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jiawei Xu"
   avatar           : "images/android-chrome-512x512.png"
+  bio              : ""
   location         : "China - USA"
   employer         : "iSchool, UT Austin"
   pubmed           : 
