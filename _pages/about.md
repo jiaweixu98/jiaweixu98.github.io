@@ -52,9 +52,9 @@ My Chinese name is 许家伟.
     </a>
   </div>
   
-  <div style="margin: 15px 0; padding: 15px; background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); border-radius: 12px; line-height: 1.4;">
+  <!-- <div style="margin: 15px 0; padding: 15px; background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); border-radius: 12px; line-height: 1.4;">
     A paper was presented at <strong>AAAI 2025</strong>.
-  </div>
+  </div> -->
 
 
 <span class='anchor' id='research'></span>
