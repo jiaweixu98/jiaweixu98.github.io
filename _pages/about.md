@@ -43,7 +43,7 @@ My Chinese name is 许家伟.
     I built an interactive knowledge graph visualization for the NIH Bridge2AI program: <a href="https://cm4aikg.vercel.app/" target="_blank" rel="noopener noreferrer">CM4AI Knowledge Graph</a>. I also developed a teaming recommendation demo: <a href="https://cm4aiteaming.streamlit.app/?aid=6052561" target="_blank" rel="noopener noreferrer">CM4AI Teaming</a>.
   </div>
   
-  <div style="display: flex; align-items: center; gap: 20px; margin: 15px 0; padding: 15px; background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); border-radius: 12px;">
+  <div style="display: flex; align-items: center; gap: 20px; margin: 15px 0; padding: 15px; background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); border-radius: 12px;" class="about-demo-flex">
     <a href="https://cm4aikg.vercel.app/" target="_blank" rel="noopener noreferrer">
       <img src="/images/bridge2aikg.png" alt="CM4AI Knowledge Graph" style="max-width: 250px; height: auto; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15); flex-shrink: 0; transition: transform 0.3s ease, box-shadow 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 6px 20px rgba(0,0,0,0.2)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 15px rgba(0,0,0,0.15)'" />
     </a>
@@ -51,10 +51,6 @@ My Chinese name is 许家伟.
       <img src="/images/teaming demo.png" alt="CM4AI Teaming Demo" style="max-width: 350px; height: auto; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15); flex-shrink: 0; transition: transform 0.3s ease, box-shadow 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 6px 20px rgba(0,0,0,0.2)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 15px rgba(0,0,0,0.15)'" />
     </a>
   </div>
-  
-  <!-- <div style="margin: 15px 0; padding: 15px; background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); border-radius: 12px; line-height: 1.4;">
-    A paper was presented at <strong>AAAI 2025</strong>.
-  </div> -->
 
 
 <span class='anchor' id='research'></span>
@@ -121,8 +117,6 @@ Awais Naeem, Tianhao Li, Huang-Ru Liao, **Jiawei Xu**, Aby M. Mathew, Zehao Zhu,
 
 - [**[AAAI 2025 (Workshop)]** LLM-TA: An LLM-Enhanced Thematic Analysis Pipeline for Transcripts from Parents of Children with Congenital Heart Disease](https://arxiv.org/pdf/2502.01620), **Jiawei Xu*** (co-first author), Muhammad Zain Raza* (co-first author), Terence Lim, Lily Boddy, Carlos M. Mery, Andrew Well, Ying Ding. AAAI 2025: GenAI4Health Workshop.
 
-<!-- - **[TBD 2025]** MedHallu: A Comprehensive Benchmark for Detecting Medical Hallucinations in Large Language Models. Shrey Pandit, **Jiawei Xu**, Ying Ding. Submission. -->
-
 - [**[JCDL 2024]** Decoding Patterns of Data Generation Teams for Clinical and Scientific Success: Insights from the Bridge2AI Talent Knowledge Graph](https://arxiv.org/abs/2501.09897), **Jiawei Xu**, Qingnan Xie, Meijun Liu, Zhandos Sembay, Swathi Thaker, Pamela Payne-Foster, Jake Yue Chen, Ying Ding. JCDL 2024.
 
 - [**[NeurIPS 2024 (Workshop)]** Demo: Interactive Visualization of Semantic Relationships in a Biomedical Project's Talent Knowledge Graph](https://arxiv.org/pdf/2501.09909), **Jiawei Xu**, Zhandos Sembay, Swathi Thaker, Pamela Payne-Foster, Jake Yue Chen, Ying Ding. NeurIPS 2024: GenAI4Health Workshop.[CM4AI Knowledge Graph](https://cm4aikg.vercel.app/)
@@ -133,15 +127,6 @@ Awais Naeem, Tianhao Li, Huang-Ru Liao, **Jiawei Xu**, Aby M. Mathew, Zehao Zhu,
 
 
 - [**[ISSI 2021]** Interdisciplinarity vs. Unidisciplinarity: A structural comparison of multi-generation citations and references](https://www.researchgate.net/profile/Jiawei-Xu-25/publication/353996807_Interdisciplinarity_vs_Unidisciplinarity_A_Structural_Comparison_of_Multi-generation_Citations_and_References/links/611df4151e95fe241adff733/Interdisciplinarity-vs-Unidisciplinarity-A-Structural-Comparison-of-Multi-generation-Citations-and-References.pdf), **Jiawei Xu**, Chao Min, Win-bin Huang, Yi Bu. ISSI 2021.
-
-<!-- <span class='anchor' id='honors-and-awards'></span>
-# <span style="color: gold;">🎖</span> Honors
-
-
-
-- **2023.07:** Excellent graduate of Beijing -->
-
-
 
 
 
@@ -158,6 +143,8 @@ Awais Naeem, Tianhao Li, Huang-Ru Liao, **Jiawei Xu**, Aby M. Mathew, Zehao Zhu,
 
 &nbsp;&nbsp;&nbsp;&nbsp;- **2025:** Organizing the [GenAI4Health Workshop](https://aihealth.ischool.utexas.edu/GenAI4HealthNeurips2025/) at NeurIPS 2025.
 
+&nbsp;&nbsp;&nbsp;&nbsp;- <strong>Reviewer of:</strong> Nature Humanities & Social Sciences Communications, Journal of the Association for Information Science and Technology, Online Information Review, Data Intelligence, Information & Culture, Journal of Clinical and Translational Science, Scientometrics
+
 ### Invited Talks
 
 &nbsp;&nbsp;&nbsp;&nbsp;- **2023.08:** "Beyond Correlation: What Factors Influence Scientific Performance" (with Yi Bu and Yang Ding).
@@ -172,6 +159,4 @@ Awais Naeem, Tianhao Li, Huang-Ru Liao, **Jiawei Xu**, Aby M. Mathew, Zehao Zhu,
 - **2021.09 - 2023.06:** M.S. in Information Science, Department of Information Management, Peking University, supervised by Doctor **Yi Bu**.
 
 - **2017.09 - 2021.06:** B.Mngt. in Information Management & Information System, Department of Information Management, Peking University.
-
-<!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
