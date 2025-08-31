@@ -10,13 +10,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an incoming third-year Ph.D. student in Information Studies at the School of Information, UT Austin, working in the [AI Health Lab](https://aihealth.ischool.utexas.edu/) under the supervision of Professor **[Ying Ding](https://yingding.ischool.utexas.edu/)**. Before joining Professor Ding's team, I collaborated with Doctor **[Yi Bu](https://buyi08.wixsite.com/yi-bu)** at the Department of Information Management, Peking University.
+My name is Jiawei Xu (许家伟 in Chinese). I am a third-year Ph.D. student in Information Studies at the UT Austin School of Information, working in the [AI Health Lab](https://aihealth.ischool.utexas.edu/) under the supervision of Professor **[Ying Ding](https://yingding.ischool.utexas.edu/)**. Previously, I was advised by Dr. **[Yi Bu](https://buyi08.wixsite.com/yi-bu)** in the Department of Information Management at Peking University.
 
-My aspiration is to become a computational social scientist to uncover patterns and solutions in healthcare and scholarly communications. I am eagerly looking forward to an academic career that combines research and teaching after completing my Ph.D.
-
-My Chinese name is 许家伟.
-
-
+I am a social science student with a growing focus on computer science and AI. My career goals are open-ended. I conduct research at the intersection of LLM agents, social science (e.g., science of science), and healthcare applications.
 <span class='anchor' id='news'></span>
 # 🔥 News
 
@@ -30,7 +26,7 @@ My Chinese name is 许家伟.
 
 * **May 2025:** 
   <div style="margin: 15px 0; padding: 15px; background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); border-radius: 12px; line-height: 1.4;">
-    I start working as an applied scientist intern at Amazon Search (Palo Alto, CA) during the summer.
+    I started working as an Applied Scientist Intern at Amazon Search (Palo Alto, CA) in Summer 2025 and am now working remotely during Fall 2025.
   </div>
 
 * **April 2025:** 
@@ -70,6 +66,27 @@ My Chinese name is 许家伟.
 </div>
 
 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/med_halu.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**[EMNLP 2025]** MedHallu: A Comprehensive Benchmark for Detecting Medical Hallucinations in Large Language Models](https://medhallu.github.io/)
+
+Shrey Pandit, **Jiawei Xu**, Junyuan Hong, Zhangyang Wang, Tianlong Chen, Kaidi Xu, Ying Ding.
+
+**EMNLP, 2025**.
+[**Code & Paper**](https://medhallu.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
+
+
+
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/AAAI_2025_UQ.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -84,17 +101,7 @@ Kyle Cox, **Jiawei Xu**, Yikun Han, Rong Xu, Tianhao Li, Chi-Yang Hsu, Tianlong 
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TBD 2025</div><img src='images/med_halu.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[**[TBD 2025]** MedHallu: A Comprehensive Benchmark for Detecting Medical Hallucinations in Large Language Models](https://medhallu.github.io/)
-
-Shrey Pandit, **Jiawei Xu**, Junyuan Hong, Zhangyang Wang, Tianlong Chen, Kaidi Xu, Ying Ding.
-
-**TBD, 2025**.
-[**Code & Paper**](https://medhallu.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-</div>
-</div>
 
 
 
@@ -143,7 +150,9 @@ Awais Naeem, Tianhao Li, Huang-Ru Liao, **Jiawei Xu**, Aby M. Mathew, Zehao Zhu,
 
 &nbsp;&nbsp;&nbsp;&nbsp;- **2025:** Organizing the [GenAI4Health Workshop](https://aihealth.ischool.utexas.edu/GenAI4HealthNeurips2025/) at NeurIPS 2025.
 
-&nbsp;&nbsp;&nbsp;&nbsp;- <strong>Reviewer of:</strong> Nature Humanities & Social Sciences Communications, Journal of the Association for Information Science and Technology, Online Information Review, Data Intelligence, Information & Culture, Journal of Clinical and Translational Science, Scientometrics
+&nbsp;&nbsp;&nbsp;&nbsp;- <strong>Reviewer of:</strong> ACM Computing Surveys, Nature Humanities & Social Sciences Communications, Journal of the Association for Information Science and Technology, Online Information Review, Data Intelligence, Information & Culture, Journal of Clinical and Translational Science, Scientometrics
+
+&nbsp;&nbsp;&nbsp;&nbsp;- <strong>Conference reviewer of:</strong> AAAI 2026 Main Conference, AAAI 2026 AI Alignment Track
 
 ### Invited Talks
 

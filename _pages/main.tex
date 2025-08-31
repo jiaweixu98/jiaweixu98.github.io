@@ -1,0 +1,273 @@
+%-------------------------
+% CV for Northeastern University Faculty in Latex
+% Author : Zoe Kearney
+% Based off of: https://www.overleaf.com/latex/templates/coles-resume-template/qhpynjcvjpcj
+% Follows: https://theprofessorisin.com/2016/08/19/dr-karens-rules-of-the-academic-cv/
+% License : MIT
+%------------------------
+
+% Document class and font size
+\documentclass[a4paper,9pt]{extarticle}
+
+% Packages
+\usepackage[utf8]{inputenc} % For input encoding
+\usepackage{geometry} % For page margins
+\geometry{a4paper, margin=0.8in} % Set paper size and margins
+\usepackage{titlesec} % For section title formatting
+\usepackage{enumitem} % For itemized list formatting
+\usepackage{hyperref} % For hyperlinks
+\usepackage{xcolor} % For colors
+\usepackage{fontawesome5} % For icons
+\usepackage{array} % For better table formatting
+\usepackage{graphicx} % For \raisebox and graphic utilities
+
+% Color definitions
+\definecolor{primaryblue}{RGB}{44, 82, 130}
+\definecolor{darkgray}{RGB}{64, 64, 64}
+\definecolor{lightgray}{RGB}{128, 128, 128}
+
+% Hyperlink formatting
+\hypersetup{
+    colorlinks=true,
+    linkcolor=primaryblue,
+    urlcolor=primaryblue,
+    citecolor=primaryblue
+}
+
+% Formatting
+\setlist{noitemsep, leftmargin=1em} % Removes item separation and adjusts margin
+\titleformat{\section}{\Large\bfseries\color{primaryblue}}{\thesection}{1em}{}[{\color{primaryblue}\titlerule[1pt]}] % Section title format
+\titlespacing*{\section}{0pt}{1.2\baselineskip}{0.8\baselineskip} % Section title spacing
+
+% Custom commands for consistent formatting
+\newcommand{\role}[1]{\textbf{\color{darkgray}#1}}
+\newcommand{\institution}[1]{\textit{#1}}
+\newcommand{\daterange}[1]{\textcolor{lightgray}{#1}}
+\newcommand{\highlight}[1]{\textbf{#1}}
+% Column types and icon alignment for skills table
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash\bfseries\color{darkgray}}m{#1}}
+\newcolumntype{R}[1]{>{\raggedright\arraybackslash}m{#1}}
+\newcommand{\icon}[1]{\makebox[1.4em][c]{\raisebox{-0.2ex}{#1}}}
+
+% Begin document
+\begin{document}
+
+% Disable page numbers
+\pagestyle{empty}
+
+% Header
+\begin{center}
+{\Huge\bfseries\color{primaryblue} Jiawei Xu} \\[8pt]
+{\Large\color{darkgray} Ph.D. Student in Information Studies} \\[4pt]
+{\large\institution{School of Information, The University of Texas at Austin}} \\[12pt]
+
+\begin{tabular}{c @{\hspace{2em}} c}
+\faEnvelope\ \href{mailto:jiaweixu@utexas.edu}{jiaweixu@utexas.edu} & 
+\faGlobe\ \href{https://jiaweixu98.github.io/}{jiaweixu98.github.io}
+\end{tabular}
+\end{center}
+
+\vspace{0.5cm}
+
+%------------------------
+% Education Section
+\section*{EDUCATION}
+
+\noindent
+\role{Ph.D. Student in Information Studies} \hfill \daterange{Aug. 2023--Present} \\
+\institution{The University of Texas at Austin} \\
+\highlight{Focus:} Language Model Agents, AI for Health, Science of Science
+
+\vspace{0.4cm}
+\noindent
+\role{M.S. in Information Science} \hfill \daterange{Sep. 2021--Jul. 2023} \\
+\institution{Peking University} \\
+\highlight{Award:} Excellent Graduate of Beijing  
+
+\vspace{0.4cm}
+\noindent
+\role{B.Sc. in Information Management \& Systems} \hfill \daterange{Sep. 2017--Jul. 2021} \\
+\institution{Peking University}
+
+% Publications Section
+\section*{PUBLICATIONS}
+
+
+% Journal Articles
+\noindent{\Large\bfseries\color{darkgray}Journal Articles}
+\vspace{0.2cm}
+\begin{enumerate}[leftmargin=0.8cm]
+    \item \textbf{Xu, J.}, Zheng, Z., Min, C., Huang, W., \& Bu, Y*. (2025). Knowledge Integration and Diffusion Structures of Interdisciplinary Research: A Large-Scale Analysis Based on Propensity Score Matching. \textit{Journal of the Association for Information Science and Technology (JASIST)}. \href{https://github.com/jiaweixu98/SciSci_IDR_vs_UDR}{[Code]} \href{https://asistdl.onlinelibrary.wiley.com/doi/full/10.1002/asi.25014}{[PDF]} 
+    \vspace{.2cm}
+    \item Xu, J., Yu, C., \textbf{Xu, J.}, Torvik, V. I., Kang, J., Sung, M., Song, M., Bu, Y., \& Ding, Y*. (2025). PubMed Knowledge Graph 2.0: Connecting Papers, Patents, and Clinical Trials in Biomedical Science. \textit{Scientific Data}.
+    \vspace{.2cm}
+\end{enumerate}
+
+% Conference Papers
+\noindent{\Large\bfseries\color{darkgray}Conference Papers}
+\vspace{0.2cm}
+\begin{enumerate}[resume,leftmargin=0.8cm]
+
+
+    \item \textbf{Xu, J.}, Chen, J., Ye, Y., Sembay, Z., Thaker, S., Payne-Foster, P., Chen, J., \& Ding, Y*. (2025). Interactive Graph Visualization and Teaming Recommendation in an Interdisciplinary Project's Talent Knowledge Graph. \textit{ASIS\&T 2025 (88th Annual Meeting of the Association for Information Science and Technology)}. \href{https://cm4aikg.vercel.app/}{[Demo]} \textit{(Acceptance rate: 28\%)}
+    \vspace{.2cm}
+    
+    \item \textbf{Xu, J.}, Xie, Q., Liu, M., Sembay, Z., Thaker, S., Payne-Foster, P., Chen, J. Y., \& Ding, Y*. (2024). Decoding Patterns of Data Generation Teams for Clinical and Scientific Success: Insights from the Bridge2AI Talent Knowledge Graph. In \textit{Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)}. \textit{(Acceptance rate: 30\%)}
+    \vspace{.2cm}
+    
+    \item Pandit, S., \textbf{Xu, J.}, Hong, J., Wang, Z., Chen, T., Xu, K., \& Ding, Y*. (2025). MedHallu: A Comprehensive Benchmark for Detecting Medical Hallucinations in Large Language Models. \textit{EMNLP 2025 Main Conference (Empirical Methods in Natural Language Processing)}. \href{https://arxiv.org/abs/2502.14302}{[Link]} \textit{(Acceptance rate: 22\%)}
+    \vspace{.2cm}
+
+    \item Cox, K., \textbf{Xu, J.}, Han, Y., Xu, R., Chen, T., Gerych, W., \& Ding, Y*. (2025). Mapping from Meaning: Addressing the Miscalibration of Prompt-Sensitive Language Models. In \textit{Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)}. \href{https://github.com/xocelyk/paraphrase-uncertainty}{[Code]} \href{https://ojs.aaai.org/index.php/AAAI/article/view/34540}{[Link]} \textit{(Acceptance rate: 23\%)}
+    \vspace{.2cm}
+
+    \item Cox, K.*, Qu, G.*, Hsu, C.-Y., \textbf{Xu, J.}, Zhou, Y., Tan, Z., Hu, M., Chen, T., Hu, Z., Zhao, Z.†, \& Ding, Y.† (2025). Thought Graph: Balancing specificity and uncertainty in LLM-based gene set annotation. \textit{Proceedings of IEEE ICHI 2025 (International Conference on Healthcare Informatics)}.
+    \vspace{.2cm}
+
+    \item Naeem, A., Li, T., Liao, H.-R., \textbf{Xu, J.}, Mathew, A. M., Zhu, Z., Tan, Z., Jaiswal, A. K., Salibian, R. A., Hu, Z., Chen, T., \& Ding, Y*. (2024). Path-RAG: Knowledge-Guided Key Region Retrieval for Open-ended Pathology Visual Question Answering. In \textit{Proceedings of the Machine Learning for Health (ML4H)}. \href{https://github.com/embedded-robotics/path-rag}{[Code]} \href{https://arxiv.org/abs/2411.17073}{[Link]}
+    \vspace{.2cm}
+    \item Hsu, C.-Y., Cox, K., \textbf{Xu, J.}, Tan, Z., Zhai, T., Hu, M., Pratt, D., Chen, T., Hu, Z., \& Ding, Y*. (2024). Thought Graph: Generating Thought Process for Biological Reasoning. In \textit{Companion Proceedings of the ACM Web Conference 2024 (WWW’24 Companion)}. \href{https://doi.org/10.1145/3589335.3651572}{[Link]}
+    \vspace{.2cm}
+
+\end{enumerate}
+
+% Workshop Papers
+\noindent{\Large\bfseries\color{darkgray}Workshop Papers}
+\vspace{0.2cm}
+\begin{enumerate}[resume,leftmargin=0.8cm]
+    \item \textbf{Xu, J.} (co-first), Raza, Z. (co-first), Lim, T., Boddy, L., Mery, C., Well, A., \& Ding, Y*. (2025). LLM-TA: An LLM-Enhanced Thematic Analysis Pipeline for Transcripts from Parents of Children with Congenital Heart Disease. \textit{GenAI4Health Workshop at AAAI}. \href{https://github.com/jiaweixu98/LLM-TA}{[Code]} \href{https://arxiv.org/abs/2502.01620}{[Link]}
+    \vspace{.2cm}
+    \item \textbf{Xu, J.}, Ding, Y., \& Bu, Y*. (2024). Position: Open and Closed Large Language Models in Healthcare. \textit{GenAI4Health Workshop at NeurIPS 2024}. \href{https://openreview.net/pdf?id=wFnzrOXxiB}{[Link]}
+    \vspace{.2cm}
+    \item \textbf{Xu, J.}, Sembay, Z., Thaker, S., Payne-Foster, P., Chen, J. Y., \& Ding, Y*. (2024). Demo: Interactive Visualization of Semantic Relationships in a Biomedical Project’s Talent Knowledge Graph. \textit{GenAI4Health Workshop at NeurIPS 2024}. \href{https://openreview.net/pdf?id=l0hhJip6fC}{[Link]} \href{https://cm4aikg.vercel.app/}{[Interactive Demo Link]}
+\end{enumerate}
+
+
+
+% Under Review & Preprints
+\vspace{0.4cm}
+\noindent{\Large\bfseries\color{darkgray}Under Review \& Preprints}
+\vspace{0.2cm}
+\begin{enumerate}[resume,leftmargin=0.8cm]
+    \item \textbf{Xu, J.}, Lee, Y., Youssef, A. E., Yun, E., Huang, T., Guo, T., Saber, H., Ying, R., \& Ding, Y*. (2025). Beyond Feature Importance: Feature Interactions in Predicting Post-Stroke Rigidity with Graph Explainable AI. \textit{arXiv preprint}. \href{https://arxiv.org/abs/2504.08150}{[arXiv]}
+    \vspace{.2cm}
+    \item Xu, H., Yi, S., Lim, T., \textbf{Xu, J.}, Well, A., Mery, C., Zhang, A., Zhang, Y., Ji, H., Pingali, K., Leng, Y., \& Ding, Y*. (2025). TAMA: A Human-AI Collaborative Thematic Analysis Framework Using Multi-Agent LLMs for Clinical Interviews. \textit{arXiv preprint}. \href{https://arxiv.org/abs/2503.20666}{[arXiv]}
+    \vspace{.2cm}
+\end{enumerate}
+
+%------------------------
+
+
+
+% Employment Section
+\section*{EMPLOYMENT}
+
+\noindent
+\role{Graduate Research Assistant} \hfill \daterange{Aug. 2023--Present} \\
+\institution{School of Information, The University of Texas at Austin}
+
+\vspace{0.4cm}
+\noindent
+\role{Applied Scientist Intern} \hfill \daterange{May 2025--Nov. 2025} \\
+\institution{Amazon Search}
+
+ 
+\section*{PROJECTS}
+
+\noindent
+\role{MATRIX: Multi-Agent Teaming Recommendation via Interactive Expertise Gap Identification} \\
+\institution{Prof. Ying Ding \& Prof. Jiliang Tang} \hfill \daterange{Apr. 2024--Present}
+\begin{itemize}[leftmargin=1em]
+\item A paper: \textit{\highlight{MATRIX: Multi-Agent Teaming Recommendation through Interactive Expertise Gap Identification}}
+\item Developing an LLM Agent-based RAG system for scientific teaming recommendations and question answering. \textit{(Available at:} \url{https://cm4aiteaming.streamlit.app/}\textit{)}
+\item Curating a benchmark dataset for teaming evaluation using large-scale scientific collaboration data
+\end{itemize}
+
+ \vspace{0.6em}
+
+\noindent
+\role{Cell Maps for AI (CM4AI) Data Generation Project} \\
+\institution{Prof. Ying Ding} \hfill \daterange{Aug. 2023--Present}
+\begin{itemize}[leftmargin=1em]
+\item Built a knowledge graph of CM4AI project contributors.
+\item Visualized the knowledge graph using Svelte and Pixi.js. \textit{(Available at:} \url{https://cm4aikg.vercel.app/}\textit{)}
+\end{itemize}
+ \vspace{0.5em}
+
+
+% Invited Talks Section 
+\section*{INVITED TALKS AND TEACHING EXPERIENCE}
+
+\noindent \role{CM4AI Talent Knowledge Graph} \\
+\institution{Virtual Talk} \hfill \daterange{Oct. 2024; Apr. 2025}
+
+\vspace{0.3em}
+\noindent \role{Beyond Correlation: What Factors Influence Scientific Performance} \\
+\institution{Virtual Talk} \hfill \daterange{Aug. 2023}
+
+\vspace{0.3em}
+\noindent \role{Guest Lecture: LLM Prompt Engineering and Multi-Agent Systems} \\
+\institution{The University of Texas at Austin} \hfill \daterange{2024--2025}
+
+\vspace{0.3em}
+\noindent \role{Teaching Assistant: Data Visualization} \\
+\institution{Peking University} \hfill \daterange{2021--2023}
+
+\vspace{0.3em}
+\noindent \role{Teaching Assistant: Complex Networks} \\
+\institution{Peking University} \hfill \daterange{2022}
+
+
+
+
+%------------------------
+% Service to Profession Section 
+\section*{SERVICE}
+
+\noindent
+\role{Reviewer} \\
+\institution{Journals}
+\begin{itemize}[leftmargin=1em]
+\item ACM Computing Surveys
+\item Journal of the Association for Information Science and Technology
+\item Nature Humanities \& Social Sciences Communications
+\item Online Information Review
+\item Data Intelligence
+\item Information \& Culture
+\item Journal of Clinical and Translational Science
+\item Scientometrics
+\end{itemize}
+
+\noindent
+\institution{Conferences}
+\begin{itemize}[leftmargin=1em]
+\item AAAI 2026 Main Conference
+\item AAAI 2026 AI Alignment Track
+\end{itemize}
+
+\vspace{0.4cm}
+\noindent
+\role{Workshop Organizer} \hfill \daterange{2025} \\
+\institution{GenAI4Health Workshop at NeurIPS 2025}
+
+
+
+\vspace{0.4cm}
+\noindent
+\role{Student Volunteer} \hfill \daterange{2024} \\
+\institution{NeurIPS 2024 GenAI4Health Workshop, Vancouver, Canada}
+
+
+
+% Professional Skills Section 
+\section*{PROFESSIONAL SKILLS}
+
+\noindent
+\begin{tabular}{L{3cm} R{12cm}}
+\icon{\faCode}\ Coding & Python (PyTorch, Hugging Face, Streamlit), JavaScript, Node.js, Svelte \\[0.3em]
+\icon{\faPaintBrush}\ Design \& Visualization & LaTeX, Photoshop, Premiere, PowerPoint \\[0.3em]
+\icon{\faLanguage}\ Languages & English (Professional), Mandarin (Native) \\
+\end{tabular}
+
+
+\end{document}
