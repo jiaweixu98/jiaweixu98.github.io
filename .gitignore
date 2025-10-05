@@ -1,3 +1,30 @@
+# Jekyll build artifacts
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Bundler
+.bundle/
+vendor/bundle/
+
+# OS / Editor
+.DS_Store
+.idea/
+.vscode/
+
+# Node (if used)
+node_modules/
+
+# Python (for google_scholar_crawler)
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Misc
+tmp/
+.cache/
 _site/
 push.sh
 .DS_Store
