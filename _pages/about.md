@@ -16,41 +16,59 @@ I am a social science student with a growing focus on computer science and AI. M
 <span class='anchor' id='news'></span>
 # 🔥 News
 
-* **December 2025:**  
-  <div style="display: flex; align-items: center; gap: 20px; margin: 15px 0; padding: 15px; background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); border-radius: 12px;">
-    <div style="flex: 1; line-height: 1.4;">I am organizing the <a href="https://aihealth.ischool.utexas.edu/GenAI4HealthNeurips2025/" target="_blank" rel="noopener noreferrer">GenAI4Health Workshop</a> at NeurIPS 2025.</div>
-    <a href="https://aihealth.ischool.utexas.edu/GenAI4HealthNeurips2025/" target="_blank" rel="noopener noreferrer">
-      <img src="/images/genai4health2025.png" alt="GenAI4Health Workshop 2025" style="max-width: 180px; height: auto; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15); flex-shrink: 0; transition: transform 0.3s ease, box-shadow 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 6px 20px rgba(0,0,0,0.2)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 15px rgba(0,0,0,0.15)'" />
-    </a>
-  </div>
+<div><strong>December 2025:</strong></div>
+<div style="display: flex; align-items: center; gap: 20px; margin: 15px 0; padding: 15px; background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); border-radius: 12px;">
+  <div style="flex: 1; line-height: 1.4;">I am organizing the <a href="https://aihealth.ischool.utexas.edu/GenAI4HealthNeurips2025/" target="_blank" rel="noopener noreferrer">GenAI4Health Workshop</a> at NeurIPS 2025.</div>
+  <a href="https://aihealth.ischool.utexas.edu/GenAI4HealthNeurips2025/" target="_blank" rel="noopener noreferrer">
+    <img src="/images/genai4health2025.png" alt="GenAI4Health Workshop 2025" style="max-width: 180px; height: auto; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15); flex-shrink: 0; transition: transform 0.3s ease, box-shadow 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 6px 20px rgba(0,0,0,0.2)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 15px rgba(0,0,0,0.15)'" />
+  </a>
+</div>
 
-* **May 2025:** 
-  <div style="margin: 15px 0; padding: 15px; background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); border-radius: 12px; line-height: 1.4;">
-    I started working as an Applied Scientist Intern at Amazon Search (Palo Alto, CA) in Summer 2025 and am now working remotely during Fall 2025.
-  </div>
+<details style="margin: 10px 0;">
+  <summary style="cursor: pointer; font-weight: 600;">More news</summary>
+  <div style="margin-top: 10px;">
+    <div><strong>May 2025:</strong></div>
+      <div style="margin: 15px 0; padding: 15px; background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); border-radius: 12px; line-height: 1.4;">
+        I started working as an Applied Scientist Intern at Amazon Search (Palo Alto, CA) in Summer 2025 and am now working remotely during Fall 2025.
+      </div>
 
-* **April 2025:** 
-  <div style="margin: 15px 0; padding: 15px; background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); border-radius: 12px; line-height: 1.4;">
-    A paper was accepted at <strong>The Journal of the Association for Information Science and Technology (JASIST)</strong>.
-  </div>
+    <div><strong>April 2025:</strong></div>
+      <div style="margin: 15px 0; padding: 15px; background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); border-radius: 12px; line-height: 1.4;">
+        A paper was accepted at <strong>The Journal of the Association for Information Science and Technology (JASIST)</strong>.
+      </div>
 
-* **February 2025:** 
-  <div style="margin: 15px 0; padding: 15px; background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); border-radius: 12px; line-height: 1.4;">
-    I built an interactive knowledge graph visualization for the NIH Bridge2AI program: <a href="https://cm4aikg.vercel.app/" target="_blank" rel="noopener noreferrer">CM4AI Knowledge Graph</a>. I also developed a teaming recommendation demo: <a href="https://cm4aiteaming.streamlit.app/?aid=6052561" target="_blank" rel="noopener noreferrer">CM4AI Teaming</a>.
+    <div><strong>February 2025:</strong></div>
+      <div style="margin: 15px 0; padding: 15px; background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); border-radius: 12px; line-height: 1.4;">
+        I built an interactive knowledge graph visualization for the NIH Bridge2AI program: <a href="https://cm4aikg.vercel.app/" target="_blank" rel="noopener noreferrer">CM4AI Knowledge Graph</a>. I also developed a teaming recommendation demo: <a href="https://cm4aiteaming.streamlit.app/?aid=6052561" target="_blank" rel="noopener noreferrer">CM4AI Teaming</a>.
+      </div>
+      
+      <div style="display: flex; align-items: center; gap: 20px; margin: 15px 0; padding: 15px; background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); border-radius: 12px;" class="about-demo-flex">
+        <a href="https://cm4aikg.vercel.app/" target="_blank" rel="noopener noreferrer">
+          <img src="/images/bridge2aikg.png" alt="CM4AI Knowledge Graph" style="max-width: 250px; height: auto; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15); flex-shrink: 0; transition: transform 0.3s ease, box-shadow 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 6px 20px rgba(0,0,0,0.2)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 15px rgba(0,0,0,0.15)'" />
+        </a>
+        <a href="https://cm4aiteaming.streamlit.app/?aid=6052561" target="_blank" rel="noopener noreferrer">
+          <img src="/images/teaming demo.png" alt="CM4AI Teaming Demo" style="max-width: 350px; height: auto; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15); flex-shrink: 0; transition: transform 0.3s ease, box-shadow 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 6px 20px rgba(0,0,0,0.2)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 15px rgba(0,0,0,0.15)'" />
+        </a>
+      </div>
   </div>
-  
-  <div style="display: flex; align-items: center; gap: 20px; margin: 15px 0; padding: 15px; background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); border-radius: 12px;" class="about-demo-flex">
-    <a href="https://cm4aikg.vercel.app/" target="_blank" rel="noopener noreferrer">
-      <img src="/images/bridge2aikg.png" alt="CM4AI Knowledge Graph" style="max-width: 250px; height: auto; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15); flex-shrink: 0; transition: transform 0.3s ease, box-shadow 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 6px 20px rgba(0,0,0,0.2)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 15px rgba(0,0,0,0.15)'" />
-    </a>
-    <a href="https://cm4aiteaming.streamlit.app/?aid=6052561" target="_blank" rel="noopener noreferrer">
-      <img src="/images/teaming demo.png" alt="CM4AI Teaming Demo" style="max-width: 350px; height: auto; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15); flex-shrink: 0; transition: transform 0.3s ease, box-shadow 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 6px 20px rgba(0,0,0,0.2)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 15px rgba(0,0,0,0.15)'" />
-    </a>
-  </div>
+</details>
 
 
 <span class='anchor' id='research'></span>
 # 📝 Research
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/oneflow_cover_figure.png' alt="Rethinking the Value of Multi-Agent Workflow" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**[Preprint 2026]** Rethinking the Value of Multi-Agent Workflow: A Strong Single Agent Baseline](/publications/ICLR_2026__OneFlow.pdf)
+
+**Jiawei Xu**, Arief Koesdwiady, Sisong Bei, Yan Han, Baixiang Huang, Dakuo Wang, Yutong Chen, Zheshen Wang, Peihao Wang, Pan Li, Ying Ding.
+
+**Preprint, 2026**.
+[**Paper**](/publications/ICLR_2026__OneFlow.pdf)
+</div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JASIST 2025</div><img src='images/jasist_2025.png' alt="Knowledge integration and diffusion structures of interdisciplinary research" width="100%"></div></div>
@@ -110,19 +128,11 @@ Kyle Cox, **Jiawei Xu**, Yikun Han, Rong Xu, Tianhao Li, Chi-Yang Hsu, Tianlong 
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ML4H 2024</div><img src='images/ml4h_2024__path_rag.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[**[ML4H 2024]** Path-RAG: Knowledge-Guided Key Region Retrieval for Open-ended Pathology Visual Question Answering](https://arxiv.org/abs/2411.17073)
-
-Awais Naeem, Tianhao Li, Huang-Ru Liao, **Jiawei Xu**, Aby M. Mathew, Zehao Zhu, Zhen Tan, Ajay Kumar Jaiswal, Raffi A. Salibian, Ziniu Hu, Tianlong Chen, Ying Ding.
-
-**ML4H, 2024**.
-[**Code**](https://github.com/embedded-robotics/path-rag) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-</div>
-</div>
+- [**[Web Conference 2026]** From Newborn to Impact: Bias-Aware Citation Prediction](https://arxiv.org/abs/2510.19246), Mingfei Lu, Mengjia Wu, **Jiawei Xu**, Weikai Li, Feng Liu, Ying Ding, Yizhou Sun, Jie Lu, Yi Zhang. The Web Conference 2026.
 
 - [**[AAAI 2025 (Workshop)]** LLM-TA: An LLM-Enhanced Thematic Analysis Pipeline for Transcripts from Parents of Children with Congenital Heart Disease](https://arxiv.org/pdf/2502.01620), **Jiawei Xu*** (co-first author), Muhammad Zain Raza* (co-first author), Terence Lim, Lily Boddy, Carlos M. Mery, Andrew Well, Ying Ding. AAAI 2025: GenAI4Health Workshop.
+
+- [**[ML4H 2024]** Path-RAG: Knowledge-Guided Key Region Retrieval for Open-ended Pathology Visual Question Answering](https://arxiv.org/abs/2411.17073), Awais Naeem, Tianhao Li, Huang-Ru Liao, **Jiawei Xu**, Aby M. Mathew, Zehao Zhu, Zhen Tan, Ajay Kumar Jaiswal, Raffi A. Salibian, Ziniu Hu, Tianlong Chen, Ying Ding. ML4H 2024. [**Code**](https://github.com/embedded-robotics/path-rag)
 
 - [**[JCDL 2024]** Decoding Patterns of Data Generation Teams for Clinical and Scientific Success: Insights from the Bridge2AI Talent Knowledge Graph](https://arxiv.org/abs/2501.09897), **Jiawei Xu**, Qingnan Xie, Meijun Liu, Zhandos Sembay, Swathi Thaker, Pamela Payne-Foster, Jake Yue Chen, Ying Ding. JCDL 2024.
 
@@ -150,7 +160,7 @@ Awais Naeem, Tianhao Li, Huang-Ru Liao, **Jiawei Xu**, Aby M. Mathew, Zehao Zhu,
 
 &nbsp;&nbsp;&nbsp;&nbsp;- **2025:** Organizing the [GenAI4Health Workshop](https://aihealth.ischool.utexas.edu/GenAI4HealthNeurips2025/) at NeurIPS 2025.
 
-&nbsp;&nbsp;&nbsp;&nbsp;- <strong>Reviewer of:</strong> ACM Computing Surveys, Nature Humanities & Social Sciences Communications, Journal of the Association for Information Science and Technology, Online Information Review, Data Intelligence, Information & Culture, Journal of Clinical and Translational Science, Scientometrics
+&nbsp;&nbsp;&nbsp;&nbsp;- <strong>Reviewer of:</strong> ACM Computing Surveys, Nature Humanities & Social Sciences Communications, Journal of the Association for Information Science and Technology, Online Information Review, Data Intelligence, Information & Culture, Journal of Clinical and Translational Science, Scientometrics, Data and Information Management
 
 &nbsp;&nbsp;&nbsp;&nbsp;- <strong>Conference reviewer of:</strong> AAAI 2026 Main Conference, AAAI 2026 AI Alignment Track
 
