@@ -12,7 +12,9 @@ redirect_from:
 
 My name is Jiawei Xu (许家伟 in Chinese). I am a third-year Ph.D. student in Information Studies at the UT Austin School of Information, working in the [AI Health Lab](https://aihealth.ischool.utexas.edu/) under the supervision of Professor **[Ying Ding](https://yingding.ischool.utexas.edu/)**. Previously, I was advised by Dr. **[Yi Bu](https://buyi08.wixsite.com/yi-bu)** in the Department of Information Management at Peking University.
 
-I am a social science student with a growing focus on computer science and AI. My career goals are open-ended. I conduct research at the intersection of LLM agents, social science (e.g., science of science), and healthcare applications.
+My research focuses on **LLM agents**, **AI for healthcare**, and **science of science**. I build scalable AI systems that bridge cutting-edge ML research with real-world applications.
+
+**I am actively seeking Applied Scientist / Research Scientist internship opportunities for Summer 2026.** Feel free to reach out! For more details, please check my [CV](/cv/JIAWEI_CV.pdf).
 <span class='anchor' id='news'></span>
 # 🔥 News
 
@@ -71,21 +73,6 @@ I am a social science student with a growing focus on computer science and AI. M
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JASIST 2025</div><img src='images/jasist_2025.png' alt="Knowledge integration and diffusion structures of interdisciplinary research" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[**[JASIST 2025]** Knowledge integration and diffusion structures of interdisciplinary research: A large-scale analysis based on propensity score matching](https://asistdl.onlinelibrary.wiley.com/doi/full/10.1002/asi.25014)
-
-**Jiawei Xu**, Zhihan Zheng, Chao Min, Win-bin Huang, and Yi Bu.
-
-**The Journal of the Association for Information Science and Technology (JASIST), 2025**.
-[**Code**](https://github.com/jiaweixu98/SciSci_IDR_vs_UDR) [**Paper**](https://asistdl.onlinelibrary.wiley.com/doi/full/10.1002/asi.25014)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-</div>
-</div>
-
-
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/med_halu.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -114,6 +101,19 @@ Kyle Cox, **Jiawei Xu**, Yikun Han, Rong Xu, Tianhao Li, Chi-Yang Hsu, Tianlong 
 
 **AAAI, 2025**.
 [**Code**](https://github.com/xocelyk/paraphrase-uncertainty) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JASIST 2025</div><img src='images/jasist_2025.png' alt="Knowledge integration and diffusion structures of interdisciplinary research" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**[JASIST 2025]** Knowledge integration and diffusion structures of interdisciplinary research: A large-scale analysis based on propensity score matching](https://asistdl.onlinelibrary.wiley.com/doi/full/10.1002/asi.25014)
+
+**Jiawei Xu**, Zhihan Zheng, Chao Min, Win-bin Huang, and Yi Bu.
+
+**The Journal of the Association for Information Science and Technology (JASIST), 2025**.
+[**Code**](https://github.com/jiaweixu98/SciSci_IDR_vs_UDR) [**Paper**](https://asistdl.onlinelibrary.wiley.com/doi/full/10.1002/asi.25014)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 
@@ -147,18 +147,29 @@ Kyle Cox, **Jiawei Xu**, Yikun Han, Rong Xu, Tianhao Li, Chi-Yang Hsu, Tianlong 
 
 
 
+<span class='anchor' id='employment'></span>
+# 💼 Employment
+
+&nbsp;&nbsp;&nbsp;&nbsp;- **May 2025 - Nov. 2025:** Applied Scientist Intern, **Amazon Search**, Palo Alto, CA  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Mentors: Arief Koesdwiady, Sisong Bei, Yan Han; Manager: Yutong Chen*
+
+&nbsp;&nbsp;&nbsp;&nbsp;- **Aug. 2023 - Present:** Graduate Research Assistant, **UT Austin School of Information**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Projects: MATRIX (Multi-Agent Teaming Recommendation), Cell Maps for AI (CM4AI)*
+
 <span class='anchor' id='teaching-and-service'></span>
 # 🎓 Teaching and Service
 
 ### Teaching
 
-&nbsp;&nbsp;&nbsp;&nbsp;- **2024 - 2025:** Teaching on LLM Multi-agent building, UT Austin  
-&nbsp;&nbsp;&nbsp;&nbsp;- **2021 - 2023:** Data Visualization, Peking University, Teaching Assistant.  
-&nbsp;&nbsp;&nbsp;&nbsp;- **2022:** Complex Networks, Peking University, Teaching Assistant.
+&nbsp;&nbsp;&nbsp;&nbsp;- **2024 - 2025:** Guest Lecture on LLM Prompt Engineering and Multi-Agent Systems, UT Austin  
+&nbsp;&nbsp;&nbsp;&nbsp;- **2021 - 2023:** Data Visualization, Peking University, Teaching Assistant  
+&nbsp;&nbsp;&nbsp;&nbsp;- **2022:** Complex Networks, Peking University, Teaching Assistant
 
 ### Service
 
-&nbsp;&nbsp;&nbsp;&nbsp;- **2025:** Organizing the [GenAI4Health Workshop](https://aihealth.ischool.utexas.edu/GenAI4HealthNeurips2025/) at NeurIPS 2025.
+&nbsp;&nbsp;&nbsp;&nbsp;- **2025:** Workshop Organizer (Student Lead), [GenAI4Health Workshop](https://aihealth.ischool.utexas.edu/GenAI4HealthNeurips2025/) at NeurIPS 2025
+
+&nbsp;&nbsp;&nbsp;&nbsp;- **2024:** Onsite Student Organizer, GenAI4Health Workshop at NeurIPS 2024, Vancouver, Canada
 
 &nbsp;&nbsp;&nbsp;&nbsp;- <strong>Reviewer of:</strong> ACM Computing Surveys, Nature Humanities & Social Sciences Communications, Journal of the Association for Information Science and Technology, Online Information Review, Data Intelligence, Information & Culture, Journal of Clinical and Translational Science, Scientometrics, Data and Information Management
 
@@ -166,7 +177,8 @@ Kyle Cox, **Jiawei Xu**, Yikun Han, Rong Xu, Tianhao Li, Chi-Yang Hsu, Tianlong 
 
 ### Invited Talks
 
-&nbsp;&nbsp;&nbsp;&nbsp;- **2023.08:** "Beyond Correlation: What Factors Influence Scientific Performance" (with Yi Bu and Yang Ding).
+&nbsp;&nbsp;&nbsp;&nbsp;- **Oct. 2024; Apr. 2025:** "CM4AI Talent Knowledge Graph" (Virtual Talk)  
+&nbsp;&nbsp;&nbsp;&nbsp;- **Aug. 2023:** "Beyond Correlation: What Factors Influence Scientific Performance" (Virtual Talk)
 
 <span class='anchor' id='educations'></span>
 # 📖 Educations
