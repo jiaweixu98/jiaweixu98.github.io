@@ -154,7 +154,7 @@ Kyle Cox, **Jiawei Xu**, Yikun Han, Rong Xu, Tianhao Li, Chi-Yang Hsu, Tianlong 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Mentors: Arief Koesdwiady, Sisong Bei, Yan Han; Manager: Yutong Chen*
 
 &nbsp;&nbsp;&nbsp;&nbsp;- **Aug. 2023 - Present:** Graduate Research Assistant, **UT Austin School of Information**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Projects: MATRIX (Multi-Agent Teaming Recommendation), Cell Maps for AI (CM4AI)*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Projects: [Patient Simulator](https://red-bush-081be940f.1.azurestaticapps.net/) (Voice Agent for Medical Communication Training), MATRIX (Multi-Agent Teaming Recommendation), Cell Maps for AI (CM4AI)*
 
 <span class='anchor' id='teaching-and-service'></span>
 # 🎓 Teaching and Service
