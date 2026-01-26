@@ -18,6 +18,11 @@ My research focuses on **LLM agents**, **AI for healthcare**, and **science of s
 <span class='anchor' id='news'></span>
 # 🔥 News
 
+<div><strong>January 2026:</strong></div>
+<div style="margin: 15px 0; padding: 15px; background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); border-radius: 12px; line-height: 1.6;">
+  Our new paper <a href="https://www.arxiv.org/abs/2601.12307" target="_blank" rel="noopener noreferrer"><strong>Rethinking the Value of Multi-Agent Workflow: A Strong Single Agent Baseline</strong></a> is now on arXiv! It was featured as the cover paper in <a href="https://www.linkedin.com/pulse/top-ai-papers-week-dair-ai-stqse/" target="_blank" rel="noopener noreferrer">DAIR.AI Top AI Papers of the Week</a> <a href="https://www.linkedin.com/pulse/top-ai-papers-week-dair-ai-stqse/" target="_blank" rel="noopener noreferrer"><img src="/images/dair_ai_logo.jpeg" alt="DAIR.AI" style="height: 1.2em; vertical-align: middle; border-radius: 4px;" /></a>.
+</div>
+
 <div><strong>December 2025:</strong></div>
 <div style="display: flex; align-items: center; gap: 20px; margin: 15px 0; padding: 15px; background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); border-radius: 12px;">
   <div style="flex: 1; line-height: 1.4;">I am organizing the <a href="https://aihealth.ischool.utexas.edu/GenAI4HealthNeurips2025/" target="_blank" rel="noopener noreferrer">GenAI4Health Workshop</a> at NeurIPS 2025.</div>
@@ -63,12 +68,12 @@ My research focuses on **LLM agents**, **AI for healthcare**, and **science of s
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/oneflow_cover_figure.png' alt="Rethinking the Value of Multi-Agent Workflow" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**[Preprint 2026]** Rethinking the Value of Multi-Agent Workflow: A Strong Single Agent Baseline](/publications/ICLR_2026__OneFlow.pdf)
+[**[Preprint 2026]** Rethinking the Value of Multi-Agent Workflow: A Strong Single Agent Baseline](https://www.arxiv.org/abs/2601.12307)
 
 **Jiawei Xu**, Arief Koesdwiady, Sisong Bei, Yan Han, Baixiang Huang, Dakuo Wang, Yutong Chen, Zheshen Wang, Peihao Wang, Pan Li, Ying Ding.
 
-**Preprint, 2026**.
-[**Paper**](/publications/ICLR_2026__OneFlow.pdf)
+**Preprint, 2026**. *(Featured as cover paper in [DAIR.AI Top AI Papers of the Week](https://www.linkedin.com/pulse/top-ai-papers-week-dair-ai-stqse/))*
+[**arXiv**](https://www.arxiv.org/abs/2601.12307)
 </div>
 </div>
 
@@ -151,7 +156,8 @@ Kyle Cox, **Jiawei Xu**, Yikun Han, Rong Xu, Tianhao Li, Chi-Yang Hsu, Tianlong 
 # 💼 Employment
 
 &nbsp;&nbsp;&nbsp;&nbsp;- **May 2025 - Nov. 2025:** Applied Scientist Intern, **Amazon Search**, Palo Alto, CA  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Mentors: Arief Koesdwiady, Sisong Bei, Yan Han; Manager: Yutong Chen*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Mentors: Arief Koesdwiady, Sisong Bei, Yan Han; Manager: Yutong Chen*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Project: [Rethinking the Value of Multi-Agent Workflow](https://www.arxiv.org/abs/2601.12307) (Featured in [DAIR.AI Top AI Papers of the Week](https://www.linkedin.com/pulse/top-ai-papers-week-dair-ai-stqse/))*
 
 &nbsp;&nbsp;&nbsp;&nbsp;- **Aug. 2023 - Present:** Graduate Research Assistant, **UT Austin School of Information**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Projects: [Patient Simulator](https://red-bush-081be940f.1.azurestaticapps.net/) (Voice Agent for Medical Communication Training), MATRIX (Multi-Agent Teaming Recommendation), Cell Maps for AI (CM4AI)*
