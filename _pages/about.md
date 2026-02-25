@@ -10,9 +10,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Jiawei Xu (许家伟 in Chinese). I am a third-year Ph.D. student in Information Studies at the UT Austin School of Information, working in the [AI Health Lab](https://aihealth.ischool.utexas.edu/) under the supervision of Professor **[Ying Ding](https://yingding.ischool.utexas.edu/)**. Previously, I was advised by Dr. **[Yi Bu](https://buyi08.wixsite.com/yi-bu)** in the Department of Information Management at Peking University.
+My name is Jiawei Xu (许家伟 in Chinese). I am a third-year Ph.D. student in Information Studies at the [UT Austin School of Information](https://www.ischool.utexas.edu/), working in the [AI Health Lab](https://aihealth.ischool.utexas.edu/).
 
-My research focuses on **LLM agents**, **AI for healthcare**, and **science of science**. I build scalable AI systems that bridge cutting-edge ML research with real-world applications.
+With Professor **[Ying Ding](https://yingding.ischool.utexas.edu/)**, I design and study **LLM-based agents** across grounded reasoning, healthcare, and scientific discovery — with a technical focus on **agent workflow orchestration** and **memory organization**. One question runs through all of it: *how can humans and AI collaborate to advance science and well-being?* It grew out of a different one I explored earlier with Dr. **[Yi Bu](https://buyi08.wixsite.com/yi-bu)** at Peking University — how human scientists collaborate with each other — studied through citation networks, interdisciplinarity, and knowledge diffusion at scale.
 
 **I am actively seeking Applied Scientist / Research Scientist internship opportunities for Summer 2026.** Feel free to reach out! For more details, please check my [CV](/cv/JIAWEI_CV.pdf).
 <span class='anchor' id='news'></span>
@@ -177,9 +177,26 @@ Kyle Cox, **Jiawei Xu**, Yikun Han, Rong Xu, Tianhao Li, Chi-Yang Hsu, Tianlong 
 
 &nbsp;&nbsp;&nbsp;&nbsp;- **2024:** Onsite Student Organizer, GenAI4Health Workshop at NeurIPS 2024, Vancouver, Canada
 
-&nbsp;&nbsp;&nbsp;&nbsp;- <strong>Reviewer of:</strong> ACM Computing Surveys, Nature Humanities & Social Sciences Communications, Journal of the Association for Information Science and Technology, Online Information Review, Data Intelligence, Information & Culture, Journal of Clinical and Translational Science, Scientometrics, Data and Information Management
+&nbsp;&nbsp;&nbsp;&nbsp;- <strong>Journal Reviewer:</strong>
+<ul style="margin: 4px 0 10px 3em; padding: 0; list-style: disc;">
+  <li>ACM Computing Surveys</li>
+  <li>Nature Humanities &amp; Social Sciences Communications</li>
+  <li>Journal of the Association for Information Science and Technology</li>
+  <li>Online Information Review</li>
+  <li>Data Intelligence</li>
+  <li>Information &amp; Culture</li>
+  <li>Journal of Clinical and Translational Science</li>
+  <li>Scientometrics</li>
+  <li>Data and Information Management</li>
+</ul>
 
-&nbsp;&nbsp;&nbsp;&nbsp;- <strong>Conference reviewer of:</strong> AAAI 2026 Main Conference, AAAI 2026 AI Alignment Track
+&nbsp;&nbsp;&nbsp;&nbsp;- <strong>Conference PC Member:</strong>
+<ul style="margin: 4px 0 10px 3em; padding: 0; list-style: disc;">
+  <li>ICML (2026)</li>
+  <li>KDD AI4Sciences (2026)</li>
+  <li>AAAI (2026)</li>
+  <li>AAAI 2026 AI Alignment (2026)</li>
+</ul>
 
 ### Invited Talks
 
@@ -191,9 +208,9 @@ Kyle Cox, **Jiawei Xu**, Yikun Han, Rong Xu, Tianhao Li, Chi-Yang Hsu, Tianlong 
 
 
 
-- **2023.08 - Now:** Ph.D. student in Information Studies at the School of Information, UT Austin, supervised by Professor **Ying Ding**.
+- **2023.08 - Now:** Ph.D. student in Information Studies at the School of Information, UT Austin. **Committee:** Prof. Ying Ding (Chair), Prof. Yan Zhang, Prof. Kenneth Fleischmann.
 
-- **2021.09 - 2023.06:** M.S. in Information Science, Department of Information Management, Peking University, supervised by Doctor **Yi Bu**.
+- **2021.09 - 2023.06:** M.S. in Information Science, Department of Information Management, Peking University, advised by Dr. **Yi Bu**.
 
-- **2017.09 - 2021.06:** B.Mngt. in Information Management & Information System, Department of Information Management, Peking University.
+- **2017.09 - 2021.06:** B.M. in Information Management & Information System, Department of Information Management, Peking University.
 
