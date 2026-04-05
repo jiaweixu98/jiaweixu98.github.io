@@ -14,9 +14,14 @@ My name is Jiawei Xu (许家伟 in Chinese). I am a third-year Ph.D. student in 
 
 With Professor **[Ying Ding](https://yingding.ischool.utexas.edu/)**, I design and study **LLM-based agents** across grounded reasoning, healthcare, and scientific discovery — with a technical focus on **agent workflow orchestration** and **memory organization**. One question runs through all of it: *how can humans and AI collaborate to advance science and well-being?* It grew out of a different one I explored earlier with Dr. **[Yi Bu](https://buyi08.wixsite.com/yi-bu)** at Peking University — how human scientists collaborate with each other — studied through citation networks, interdisciplinarity, and knowledge diffusion at scale.
 
-**I am actively seeking Applied Scientist / Research Scientist internship opportunities for Summer 2026.** Feel free to reach out! For more details, please check my [CV](/cv/JIAWEI_CV.pdf).
+Feel free to reach out! For more details, please check my [CV](/cv/JIAWEI_CV.pdf).
 <span class='anchor' id='news'></span>
 # 🔥 News
+
+<div><strong>April 2026:</strong></div>
+<div style="margin: 15px 0; padding: 15px; background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); border-radius: 12px; line-height: 1.6;">
+  I will join <strong>Amazon</strong> in Seattle this summer (May-Aug. 2026) as an <strong>Applied Scientist Intern</strong>.
+</div>
 
 <div><strong>January 2026:</strong></div>
 <div style="margin: 15px 0; padding: 15px; background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); border-radius: 12px; line-height: 1.6;">
@@ -155,6 +160,8 @@ Kyle Cox, **Jiawei Xu**, Yikun Han, Rong Xu, Tianhao Li, Chi-Yang Hsu, Tianlong 
 <span class='anchor' id='employment'></span>
 # 💼 Employment
 
+&nbsp;&nbsp;&nbsp;&nbsp;- **May 2026 - Aug. 2026:** Applied Scientist Intern, **Amazon**, Seattle, WA  
+
 &nbsp;&nbsp;&nbsp;&nbsp;- **May 2025 - Nov. 2025:** Applied Scientist Intern, **Amazon Search**, Palo Alto, CA  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Mentors: Arief Koesdwiady, Sisong Bei, Yan Han; Manager: Yutong Chen*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Project: [Rethinking the Value of Multi-Agent Workflow](https://www.arxiv.org/abs/2601.12307) (Featured in [DAIR.AI Top AI Papers of the Week](https://www.linkedin.com/pulse/top-ai-papers-week-dair-ai-stqse/))*
@@ -213,4 +220,3 @@ Kyle Cox, **Jiawei Xu**, Yikun Han, Rong Xu, Tianhao Li, Chi-Yang Hsu, Tianlong 
 - **2021.09 - 2023.06:** M.S. in Information Science, Department of Information Management, Peking University, advised by Dr. **Yi Bu**.
 
 - **2017.09 - 2021.06:** B.M. in Information Management & Information System, Department of Information Management, Peking University.
-

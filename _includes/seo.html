@@ -48,7 +48,15 @@
 {% endif %}
 
 {% if site.author.avatar %}
-  <meta property="og:image" content="{{ site.author.avatar | prepend: seo_url }}">
+  {% assign og_image = site.author.avatar %}
+  {% unless og_image contains "://" %}
+    {% assign og_image_first_char = og_image | slice: 0 %}
+    {% if og_image_first_char != "/" %}
+      {% assign og_image = "/" | append: og_image %}
+    {% endif %}
+    {% assign og_image = og_image | prepend: seo_url %}
+  {% endunless %}
+  <meta property="og:image" content="{{ og_image }}">
   <meta property="og:image:width" content="512">
   <meta property="og:image:height" content="512">
 {% endif %}

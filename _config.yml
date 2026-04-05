@@ -12,6 +12,12 @@ repository               : "jiaweixu98/jiaweixu98.github.io"
 url                      : "https://jiaweixu98.github.io"
 google_scholar_stats_use_cdn : true
 
+cv:
+  public_path            : "/cv/JIAWEI_CV.pdf"
+  published_dir          : "cv"
+  versions_dir           : "cv-temp"
+  source_tex             : "_pages/cv_tex.tex"
+
 # GitHub Metadata (for local development)
 github:
   repository_url: "https://github.com/jiaweixu98/jiaweixu98.github.io"
@@ -32,7 +38,7 @@ author:
   name             : "Jiawei Xu"
   avatar           : "images/android-chrome-512x512.png"
   bio              : ""
-  location         : "China - USA"
+  location         :
   employer         : "iSchool, UT Austin"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=dqFamHgAAAAJ"
@@ -77,6 +83,7 @@ include:
 exclude:
   - docs
   - google_scholar_crawler
+  - cv-temp
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache

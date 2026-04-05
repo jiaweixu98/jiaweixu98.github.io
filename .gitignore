@@ -28,3 +28,12 @@ tmp/
 _site/
 push.sh
 .DS_Store
+
+# TeX build artifacts
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
