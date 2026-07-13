@@ -10,17 +10,22 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Jiawei Xu (许家伟 in Chinese). I am a third-year Ph.D. student in Information Studies at the [UT Austin School of Information](https://www.ischool.utexas.edu/), working in the [AI Health Lab](https://aihealth.ischool.utexas.edu/).
+My name is Jiawei Xu (许家伟 in Chinese). I am an incoming fourth-year Ph.D. student in Information Studies in Fall 2026 at the [UT Austin School of Information](https://www.ischool.utexas.edu/), working in the [AI Health Lab](https://aihealth.ischool.utexas.edu/).
 
-With Professor **[Ying Ding](https://yingding.ischool.utexas.edu/)**, I design and study **LLM-based agents** across grounded reasoning, healthcare, and scientific discovery — with a technical focus on **agent workflow orchestration** and **memory organization**. One question runs through all of it: *how can humans and AI collaborate to advance science and well-being?* It grew out of a different one I explored earlier with Dr. **[Yi Bu](https://buyi08.wixsite.com/yi-bu)** at Peking University — how human scientists collaborate with each other — studied through citation networks, interdisciplinarity, and knowledge diffusion at scale.
+With Professor **[Ying Ding](https://yingding.ischool.utexas.edu/)**, I design and study **LLM-based agents** across grounded reasoning, healthcare, and scientific discovery, with a technical focus on **agent workflow orchestration** and **memory organization**. One question runs through all of it: *how can humans and AI collaborate to advance science and well-being?* It grew out of a different one I explored earlier with Dr. **[Yi Bu](https://buyi08.wixsite.com/yi-bu)** at Peking University: how human scientists collaborate with each other, studied through citation networks, interdisciplinarity, and knowledge diffusion at scale.
 
 Feel free to reach out! For more details, please check my [CV](/cv/JIAWEI_CV.pdf).
 <span class='anchor' id='news'></span>
 # 🔥 News
 
+<div><strong>July 2026:</strong></div>
+<div style="margin: 15px 0; padding: 15px; background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); border-radius: 12px; line-height: 1.6;">
+  <em>SEER: Long-Context Reasoning via Selective Visual-Text Compression</em> has been accepted to <a href="https://colmweb.org/" target="_blank" rel="noopener noreferrer"><strong>COLM 2026</strong></a>. Camera-ready version, code, and PDF are under preparation.
+</div>
+
 <div><strong>April 2026:</strong></div>
 <div style="margin: 15px 0; padding: 15px; background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); border-radius: 12px; line-height: 1.6;">
-  I will join <strong>Amazon</strong> in Seattle this summer (May-Aug. 2026) as an <strong>Applied Scientist Intern</strong>.
+  I am spending Summer 2026 as an <strong>Applied Scientist Intern</strong> at <strong>Amazon</strong> (SEA24) in Seattle, WA.
 </div>
 
 <div><strong>January 2026:</strong></div>
@@ -30,7 +35,7 @@ Feel free to reach out! For more details, please check my [CV](/cv/JIAWEI_CV.pdf
 
 <div><strong>December 2025:</strong></div>
 <div style="display: flex; align-items: center; gap: 20px; margin: 15px 0; padding: 15px; background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); border-radius: 12px;">
-  <div style="flex: 1; line-height: 1.4;">I am organizing the <a href="https://aihealth.ischool.utexas.edu/GenAI4HealthNeurips2025/" target="_blank" rel="noopener noreferrer">GenAI4Health Workshop</a> at NeurIPS 2025.</div>
+  <div style="flex: 1; line-height: 1.4;">I organized the <a href="https://aihealth.ischool.utexas.edu/GenAI4HealthNeurips2025/" target="_blank" rel="noopener noreferrer">GenAI4Health Workshop</a> at NeurIPS 2025. The workshop will continue at NeurIPS 2026 in Sydney.</div>
   <a href="https://aihealth.ischool.utexas.edu/GenAI4HealthNeurips2025/" target="_blank" rel="noopener noreferrer">
     <img src="/images/genai4health2025.png" alt="GenAI4Health Workshop 2025" style="max-width: 180px; height: auto; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15); flex-shrink: 0; transition: transform 0.3s ease, box-shadow 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 6px 20px rgba(0,0,0,0.2)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 15px rgba(0,0,0,0.15)'" />
   </a>
@@ -68,6 +73,8 @@ Feel free to reach out! For more details, please check my [CV](/cv/JIAWEI_CV.pdf
 
 <span class='anchor' id='research'></span>
 # 📝 Research
+
+- **[COLM 2026]** *SEER: Long-Context Reasoning via Selective Visual-Text Compression*, **Jiawei Xu**\*, Zhilin Zhai\*, Jinrui Fang, Ruohan Xu, Mingfei Lu, Yi Zhang, Guanchu Wang<sup>†</sup>, Tianlong Chen<sup>†</sup>, Ying Ding<sup>†</sup>. **COLM 2026**. *(Camera-ready version under preparation.)*
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/oneflow_cover_figure.png' alt="Rethinking the Value of Multi-Agent Workflow" width="100%"></div></div>
@@ -140,13 +147,15 @@ Kyle Cox, **Jiawei Xu**, Yikun Han, Rong Xu, Tianhao Li, Chi-Yang Hsu, Tianlong 
 
 - [**[Web Conference 2026]** From Newborn to Impact: Bias-Aware Citation Prediction](https://arxiv.org/abs/2510.19246), Mingfei Lu, Mengjia Wu, **Jiawei Xu**, Weikai Li, Feng Liu, Ying Ding, Yizhou Sun, Jie Lu, Yi Zhang. The Web Conference 2026.
 
+- [**[ACM Transactions on Computing for Healthcare]** TAMA: A Human-AI Collaborative Thematic Analysis Framework Using Multi-Agent LLMs for Clinical Interviews](https://dl.acm.org/doi/10.1145/3828752), Huimin Xu, Seungjun Yi, Terence Lim, **Jiawei Xu**, Andrew Well, Carlos M. Mery, Aidong Zhang, Yuji Zhang, Heng Ji, Keshav Pingali, Yan Leng, Ying Ding. ACM Transactions on Computing for Healthcare, 2026.
+
 - [**[AAAI 2025 (Workshop)]** LLM-TA: An LLM-Enhanced Thematic Analysis Pipeline for Transcripts from Parents of Children with Congenital Heart Disease](https://arxiv.org/pdf/2502.01620), **Jiawei Xu*** (co-first author), Muhammad Zain Raza* (co-first author), Terence Lim, Lily Boddy, Carlos M. Mery, Andrew Well, Ying Ding. AAAI 2025: GenAI4Health Workshop.
 
 - [**[ML4H 2024]** Path-RAG: Knowledge-Guided Key Region Retrieval for Open-ended Pathology Visual Question Answering](https://arxiv.org/abs/2411.17073), Awais Naeem, Tianhao Li, Huang-Ru Liao, **Jiawei Xu**, Aby M. Mathew, Zehao Zhu, Zhen Tan, Ajay Kumar Jaiswal, Raffi A. Salibian, Ziniu Hu, Tianlong Chen, Ying Ding. ML4H 2024. [**Code**](https://github.com/embedded-robotics/path-rag)
 
 - [**[JCDL 2024]** Decoding Patterns of Data Generation Teams for Clinical and Scientific Success: Insights from the Bridge2AI Talent Knowledge Graph](https://arxiv.org/abs/2501.09897), **Jiawei Xu**, Qingnan Xie, Meijun Liu, Zhandos Sembay, Swathi Thaker, Pamela Payne-Foster, Jake Yue Chen, Ying Ding. JCDL 2024.
 
-- [**[NeurIPS 2024 (Workshop)]** Demo: Interactive Visualization of Semantic Relationships in a Biomedical Project's Talent Knowledge Graph](https://arxiv.org/pdf/2501.09909), **Jiawei Xu**, Zhandos Sembay, Swathi Thaker, Pamela Payne-Foster, Jake Yue Chen, Ying Ding. NeurIPS 2024: GenAI4Health Workshop.[CM4AI Knowledge Graph](https://cm4aikg.vercel.app/)
+- [**[NeurIPS 2024 (Workshop)]** Demo: Interactive Visualization of Semantic Relationships in a Biomedical Project's Talent Knowledge Graph](https://arxiv.org/pdf/2501.09909), **Jiawei Xu**, Zhandos Sembay, Swathi Thaker, Pamela Payne-Foster, Jake Yue Chen, Ying Ding. NeurIPS 2024: GenAI4Health Workshop. [CM4AI Knowledge Graph](https://cm4aikg.vercel.app/)
 
 - [**[NeurIPS 2024 (Workshop)]** Position: Open and Closed Large Language Models in Healthcare](https://openreview.net/pdf?id=wFnzrOXxiB), **Jiawei Xu**, Ying Ding, Yi Bu. NeurIPS 2024: GenAI4Health Workshop.
 
@@ -160,7 +169,7 @@ Kyle Cox, **Jiawei Xu**, Yikun Han, Rong Xu, Tianhao Li, Chi-Yang Hsu, Tianlong 
 <span class='anchor' id='employment'></span>
 # 💼 Employment
 
-&nbsp;&nbsp;&nbsp;&nbsp;- **May 2026 - Aug. 2026:** Applied Scientist Intern, **Amazon**, Seattle, WA  
+&nbsp;&nbsp;&nbsp;&nbsp;- **May 2026 - Aug. 2026:** Applied Scientist Intern, **Amazon**, Seattle, WA (SEA24)  
 
 &nbsp;&nbsp;&nbsp;&nbsp;- **May 2025 - Nov. 2025:** Applied Scientist Intern, **Amazon Search**, Palo Alto, CA  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Mentors: Arief Koesdwiady, Sisong Bei, Yan Han; Manager: Yutong Chen*  
