@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Jiawei Xu (许家伟 in Chinese). I am an incoming fourth-year Ph.D. student in Information Studies in Fall 2026 at the [UT Austin School of Information](https://www.ischool.utexas.edu/), working in the [AI Health Lab](https://aihealth.ischool.utexas.edu/).
+My name is Jiawei Xu (许家伟 in Chinese). I am a fourth-year Ph.D. student in Information Studies at UT Austin. My academic home is the [iSchool](https://ischool.utexas.edu/) within the [School of Computing](https://computing.utexas.edu/), where I am a member of the [AI Health Lab](https://aihealth.ischool.utexas.edu/).
 
 With Professor **[Ying Ding](https://yingding.ischool.utexas.edu/)**, I design and study **LLM-based agents** across grounded reasoning, healthcare, and scientific discovery, with a technical focus on **agent workflow orchestration** and **memory organization**. One question runs through all of it: *how can humans and AI collaborate to advance science and well-being?* It grew out of a different one I explored earlier with Dr. **[Yi Bu](https://buyi08.wixsite.com/yi-bu)** at Peking University: how human scientists collaborate with each other, studied through citation networks, interdisciplinarity, and knowledge diffusion at scale.
 
@@ -18,14 +18,14 @@ Feel free to reach out! For more details, please check my [CV](/cv/JIAWEI_CV.pdf
 <span class='anchor' id='news'></span>
 # 🔥 News
 
-<div><strong>July 2026:</strong></div>
+<div><strong>August 2026:</strong></div>
 <div style="margin: 15px 0; padding: 15px; background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); border-radius: 12px; line-height: 1.6;">
-  <em>SEER: Long-Context Reasoning via Selective Visual-Text Compression</em> has been accepted to <a href="https://colmweb.org/" target="_blank" rel="noopener noreferrer"><strong>COLM 2026</strong></a>. Camera-ready version, code, and PDF are under preparation.
+  Our COLM 2026 paper <a href="https://arxiv.org/abs/2608.15962" target="_blank" rel="noopener noreferrer"><strong>SEER: Long-Context Reasoning via Selective Visual-Text Compression</strong></a> is now available on arXiv, and the <a href="https://github.com/jiaweixu98/SEER" target="_blank" rel="noopener noreferrer"><strong>code</strong></a> has been released on GitHub.
 </div>
 
 <div><strong>April 2026:</strong></div>
 <div style="margin: 15px 0; padding: 15px; background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); border-radius: 12px; line-height: 1.6;">
-  I am spending Summer 2026 as an <strong>Applied Scientist Intern</strong> at <strong>Amazon</strong> (SEA24) in Seattle, WA.
+  I spent Summer 2026 as an <strong>Applied Scientist Intern</strong> at <strong>Amazon</strong> (SEA24) in Seattle, WA.
 </div>
 
 <div><strong>January 2026:</strong></div>
@@ -35,7 +35,7 @@ Feel free to reach out! For more details, please check my [CV](/cv/JIAWEI_CV.pdf
 
 <div><strong>December 2025:</strong></div>
 <div style="display: flex; align-items: center; gap: 20px; margin: 15px 0; padding: 15px; background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); border-radius: 12px;">
-  <div style="flex: 1; line-height: 1.4;">I organized the <a href="https://aihealth.ischool.utexas.edu/GenAI4HealthNeurips2025/" target="_blank" rel="noopener noreferrer">GenAI4Health Workshop</a> at NeurIPS 2025. The workshop will continue at NeurIPS 2026 in Sydney.</div>
+  <div style="flex: 1; line-height: 1.4;">I organized the <a href="https://aihealth.ischool.utexas.edu/GenAI4HealthNeurips2025/" target="_blank" rel="noopener noreferrer">GenAI4Health Workshop</a> at NeurIPS 2025. The workshop will continue at <a href="https://genai4health.github.io/2026-NeurIPS/" target="_blank" rel="noopener noreferrer">NeurIPS 2026 in Sydney</a>.</div>
   <a href="https://aihealth.ischool.utexas.edu/GenAI4HealthNeurips2025/" target="_blank" rel="noopener noreferrer">
     <img src="/images/genai4health2025.png" alt="GenAI4Health Workshop 2025" style="max-width: 180px; height: auto; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15); flex-shrink: 0; transition: transform 0.3s ease, box-shadow 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 6px 20px rgba(0,0,0,0.2)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 15px rgba(0,0,0,0.15)'" />
   </a>
@@ -74,7 +74,17 @@ Feel free to reach out! For more details, please check my [CV](/cv/JIAWEI_CV.pdf
 <span class='anchor' id='research'></span>
 # 📝 Research
 
-- **[COLM 2026]** *SEER: Long-Context Reasoning via Selective Visual-Text Compression*, **Jiawei Xu**\*, Zhilin Zhai\*, Jinrui Fang, Ruohan Xu, Mingfei Lu, Yi Zhang, Guanchu Wang<sup>†</sup>, Tianlong Chen<sup>†</sup>, Ying Ding<sup>†</sup>. **COLM 2026**. *(Camera-ready version under preparation.)*
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLM 2026</div><img src='images/COLM_2026_SEER.png' alt="SEER selective visual-text compression framework" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**[COLM 2026]** SEER: Long-Context Reasoning via Selective Visual-Text Compression](https://arxiv.org/abs/2608.15962)
+
+**Jiawei Xu**\*, Zhilin Zhai\*, Jinrui Fang, Ruohan Xu, Mingfei Lu, Yi Zhang, Guanchu Wang<sup>†</sup>, Tianlong Chen<sup>†</sup>, Ying Ding<sup>†</sup>.
+
+**Conference on Language Modeling (COLM), 2026**.
+[**Paper**](https://arxiv.org/pdf/2608.15962) [**Code**](https://github.com/jiaweixu98/SEER)
+</div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/oneflow_cover_figure.png' alt="Rethinking the Value of Multi-Agent Workflow" width="100%"></div></div>
@@ -170,12 +180,17 @@ Kyle Cox, **Jiawei Xu**, Yikun Han, Rong Xu, Tianhao Li, Chi-Yang Hsu, Tianlong 
 # 💼 Employment
 
 &nbsp;&nbsp;&nbsp;&nbsp;- **May 2026 - Aug. 2026:** Applied Scientist Intern, **Amazon**, Seattle, WA (SEA24)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Mentors: Dihan Dai and Keyang He; Manager: Jinhe Shi*<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Technical Advisors: Jiajian Lu and Olcay Boz*<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Project: Self-improving automated research loop for machine learning tasks*<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Performance: Inclined for a return internship*
 
-&nbsp;&nbsp;&nbsp;&nbsp;- **May 2025 - Nov. 2025:** Applied Scientist Intern, **Amazon Search**, Palo Alto, CA  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Mentors: Arief Koesdwiady, Sisong Bei, Yan Han; Manager: Yutong Chen*  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Project: [Rethinking the Value of Multi-Agent Workflow](https://www.arxiv.org/abs/2601.12307) (Featured in [DAIR.AI Top AI Papers of the Week](https://www.linkedin.com/pulse/top-ai-papers-week-dair-ai-stqse/))*
+&nbsp;&nbsp;&nbsp;&nbsp;- **May 2025 - Nov. 2025:** Applied Scientist Intern, **Amazon Search**, Palo Alto, CA (SFO24)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Mentors: Arief Koesdwiady, Sisong Bei, Yan Han; Manager: Yutong Chen*<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Project: [Rethinking the Value of Multi-Agent Workflow](https://www.arxiv.org/abs/2601.12307) (Featured in [DAIR.AI Top AI Papers of the Week](https://www.linkedin.com/pulse/top-ai-papers-week-dair-ai-stqse/))*<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Performance: Inclined for a return internship*
 
-&nbsp;&nbsp;&nbsp;&nbsp;- **Aug. 2023 - Present:** Graduate Research Assistant, **UT Austin School of Information**  
+&nbsp;&nbsp;&nbsp;&nbsp;- **Aug. 2023 - Present:** Graduate Research Assistant, **[iSchool (Information)](https://ischool.utexas.edu/), [School of Computing](https://computing.utexas.edu/), UT Austin**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Projects: [Patient Simulator](https://red-bush-081be940f.1.azurestaticapps.net/) (Voice Agent for Medical Communication Training), MATRIX (Multi-Agent Teaming Recommendation), Cell Maps for AI (CM4AI)*
 
 <span class='anchor' id='teaching-and-service'></span>
@@ -208,10 +223,9 @@ Kyle Cox, **Jiawei Xu**, Yikun Han, Rong Xu, Tianhao Li, Chi-Yang Hsu, Tianlong 
 
 &nbsp;&nbsp;&nbsp;&nbsp;- <strong>Conference PC Member:</strong>
 <ul style="margin: 4px 0 10px 3em; padding: 0; list-style: disc;">
+  <li>AAAI (2026, 2027)</li>
   <li>ICML (2026)</li>
-  <li>KDD AI4Sciences (2026)</li>
-  <li>AAAI (2026)</li>
-  <li>AAAI 2026 AI Alignment (2026)</li>
+  <li>NeurIPS (2026)</li>
 </ul>
 
 ### Invited Talks
@@ -224,7 +238,7 @@ Kyle Cox, **Jiawei Xu**, Yikun Han, Rong Xu, Tianhao Li, Chi-Yang Hsu, Tianlong 
 
 
 
-- **2023.08 - Now:** Ph.D. student in Information Studies at the School of Information, UT Austin. **Committee:** Prof. Ying Ding (Chair), Prof. Yan Zhang, Prof. Kenneth Fleischmann.
+- **2023.08 - Present:** Ph.D. student in Information Studies at the [iSchool](https://ischool.utexas.edu/) within UT Austin's [School of Computing](https://computing.utexas.edu/). **Committee:** Prof. Ying Ding (Chair), Prof. Yan Zhang, Prof. Kenneth Fleischmann.
 
 - **2021.09 - 2023.06:** M.S. in Information Science, Department of Information Management, Peking University, advised by Dr. **Yi Bu**.
 
