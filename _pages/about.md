@@ -189,6 +189,7 @@ Shrey Pandit, **Jiawei Xu**, Junyuan Hong, Zhangyang Wang, Tianlong Chen, Kaidi 
 <div class="entry-heading"><h3>Graduate Research Assistant</h3><span class="entry-date">Aug. 2023 – Aug. 2026</span></div>
 <p>The University of Texas at Austin</p>
 <p class="entry-note"><a href="https://ischool.utexas.edu/">iSchool (Information)</a>, <a href="https://computing.utexas.edu/">School of Computing</a></p>
+<p class="entry-note" style="font-size: var(--detail-size); margin-top: 12px;">Selected projects</p>
 <p class="entry-project"><a href="https://irisim.azurewebsites.net/">Patient Simulator</a> — Developed a voice-based AI patient simulator to help medical students practice clinical conversations and patient communication. Related exploration includes <a href="https://arxiv.org/abs/2608.15962">SEER</a>, which studies long-context reasoning through selective visual-text compression.</p>
 <p class="entry-project"><a href="https://bridge2ai.labs-app.com/">Cell Maps for AI (CM4AI)</a> — Developed interactive knowledge graph visualization and teaming recommendation tools to help researchers explore expertise and identify potential collaborators.</p>
 <p class="entry-project"><a href="https://arxiv.org/abs/2502.01620">LLM-assisted thematic analysis</a> — Developed methods for identifying themes in interviews with parents of children with congenital heart disease, with evaluation against human analysis and expert review.</p>
