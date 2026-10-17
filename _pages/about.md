@@ -192,8 +192,8 @@ Shrey Pandit, **Jiawei Xu**, Junyuan Hong, Zhangyang Wang, Tianlong Chen, Kaidi 
 <p class="entry-note" style="font-size: var(--detail-size); margin-top: 12px;">Selected projects</p>
 <p class="entry-project"><a href="https://irisim.azurewebsites.net/">Patient Simulator</a> — Developed a voice-based AI patient simulator to help medical students practice clinical conversations and patient communication. Related exploration includes <a href="https://arxiv.org/abs/2608.15962">SEER</a>, which studies long-context reasoning through selective visual-text compression.</p>
 <p class="entry-project"><a href="https://bridge2ai.labs-app.com/">Cell Maps for AI (CM4AI)</a> — Developed interactive knowledge graph visualization and teaming recommendation tools to help researchers explore expertise and identify potential collaborators.</p>
+<p class="entry-project">LLM uncertainty quantification and hallucination detection for health — Contributed to <a href="https://ojs.aaai.org/index.php/AAAI/article/view/34540">Mapping from Meaning</a>, studying prompt sensitivity and uncertainty calibration, and <a href="https://medhallu.github.io/">MedHallu</a>, a benchmark for detecting medical hallucinations.</p>
 <p class="entry-project"><a href="https://arxiv.org/abs/2502.01620">LLM-assisted thematic analysis</a> — Developed methods for identifying themes in interviews with parents of children with congenital heart disease, with evaluation against human analysis and expert review.</p>
-<p class="entry-project">LLM uncertainty quantification and hallucination detection — Contributed to <a href="https://ojs.aaai.org/index.php/AAAI/article/view/34540">Mapping from Meaning</a>, studying prompt sensitivity and uncertainty calibration, and <a href="https://medhallu.github.io/">MedHallu</a>, a benchmark for detecting medical hallucinations.</p>
 </div>
 </div>
 </div>
