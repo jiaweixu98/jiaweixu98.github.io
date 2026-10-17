@@ -278,7 +278,7 @@ Shrey Pandit, **Jiawei Xu**, Junyuan Hong, Zhangyang Wang, Tianlong Chen, Kaidi 
 <div class="education-heading"><h3>M.S. in Information Science</h3><span class="education-date">Sep. 2021 – Jun. 2023</span></div>
 <p>Peking University</p>
 <p class="education-note">Department of Information Management</p>
-<p class="education-note">Advisors: Professor Yi Bu and Dr. Win-bin Huang</p>
+<p class="education-note">Advisors: Professor Yi Bu and Professor Win-bin Huang</p>
 </div>
 </div>
 <div class="education-entry">
@@ -300,7 +300,7 @@ Shrey Pandit, **Jiawei Xu**, Junyuan Hong, Zhangyang Wang, Tianlong Chen, Kaidi 
 
 With Professor **[Ying Ding](https://yingding.ischool.utexas.edu/)**, I design and study **LLM-based agents** across grounded reasoning, healthcare, and scientific discovery.
 
-One question runs through all of it: *how can humans and AI collaborate to advance science and well-being?* It grew out of a different one I explored earlier with Professor **[Yi Bu](https://buyi08.wixsite.com/yi-bu)** and Dr. **Win-bin Huang** at Peking University: how human scientists collaborate with each other, studied through citation networks, interdisciplinarity, and knowledge diffusion at scale.
+One question runs through all of it: *how can humans and AI collaborate to advance science and well-being?* It grew out of a different one I explored earlier with Professor **[Yi Bu](https://buyi08.wixsite.com/yi-bu)** and Professor **Win-bin Huang** at Peking University: how human scientists collaborate with each other, studied through citation networks, interdisciplinarity, and knowledge diffusion at scale.
 
 That earlier work shapes how I approach AI today: I am interested in how agents work with people, use evidence, and support biomedical discovery and healthcare. Across these projects, I study how to make human–AI collaboration more reliable and useful, with better health as a long-term goal.
 
