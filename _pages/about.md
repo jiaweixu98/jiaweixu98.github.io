@@ -25,7 +25,8 @@ Feel free to reach out! For more details, please check my [CV](/cv/JIAWEI_CV.pdf
 <div class="chapter-body" markdown="1">
 
 
-I study AI agents and reasoning, healthcare and biomedical AI, and the science of science.
+My current research focuses on AI agents and their applications in health, alongside earlier work in the science of science.
+
 
 <div class="research-group" id="agents-reasoning" markdown="1">
 <h3>Agents & reasoning</h3>
@@ -38,7 +39,7 @@ I study AI agents and reasoning, healthcare and biomedical AI, and the science o
 
 <p class="paper-summary">SEER scans visually compressed context, then retrieves the original text where the query requires more precise detail.</p>
 
-**Jiawei Xu**\*, Zhilin Zhai\*, Jinrui Fang, Ruohan Xu, Mingfei Lu, Yi Zhang, Guanchu Wang<sup>†</sup>, Tianlong Chen<sup>†</sup>, Ying Ding<sup>†</sup>.
+**Jiawei Xu**, Zhilin Zhai, Jinrui Fang, Ruohan Xu, Mingfei Lu, Yi Zhang, Guanchu Wang, Tianlong Chen, Ying Ding.
 
 **Conference on Language Modeling (COLM), 2026**.
 [**Paper**](https://arxiv.org/pdf/2608.15962) [**Code**](https://github.com/jiaweixu98/SEER)
@@ -89,7 +90,7 @@ Kyle Cox, **Jiawei Xu**, Yikun Han, Rong Xu, Tianhao Li, Chi-Yang Hsu, Tianlong 
 Shrey Pandit, **Jiawei Xu**, Junyuan Hong, Zhangyang Wang, Tianlong Chen, Kaidi Xu, Ying Ding.
 
 **EMNLP, 2025**.
-[**Code & Paper**](https://medhallu.github.io/)
+[**Paper**](https://arxiv.org/abs/2502.14302) [**Dataset**](https://huggingface.co/datasets/UTAustin-AIHealth/MedHallu) [**Code**](https://github.com/MedHallu/MedHallu)
 </div>
 </div>
 
@@ -169,7 +170,6 @@ Shrey Pandit, **Jiawei Xu**, Junyuan Hong, Zhangyang Wang, Tianlong Chen, Kaidi 
 <p class="entry-project">Self-improving automated research loop for machine learning tasks</p>
 <p class="entry-note">Mentors: Dihan Dai and Keyang He · Manager: Jinhe Shi</p>
 <p class="entry-note">Technical advisors: Jiajian Lu and Olcay Boz</p>
-<p class="entry-outcome">Return intern offer</p>
 </div>
 </div>
 <div class="experience-entry">
@@ -180,7 +180,6 @@ Shrey Pandit, **Jiawei Xu**, Junyuan Hong, Zhangyang Wang, Tianlong Chen, Kaidi 
 <p class="entry-project"><a href="https://arxiv.org/abs/2601.12307">Rethinking the Value of Multi-Agent Workflow</a></p>
 <p class="entry-note">Featured in <a href="https://www.linkedin.com/pulse/top-ai-papers-week-dair-ai-stqse/">DAIR.AI Top AI Papers of the Week</a></p>
 <p class="entry-note">Mentors: Arief Koesdwiady, Sisong Bei, Yan Han · Manager: Yutong Chen</p>
-<p class="entry-outcome">Return intern offer</p>
 </div>
 </div>
 <div class="experience-entry">
@@ -275,7 +274,7 @@ Shrey Pandit, **Jiawei Xu**, Junyuan Hong, Zhangyang Wang, Tianlong Chen, Kaidi 
 <div class="education-entry">
 <img class="institution-logo" src="/images/institutions/pku.png" alt="Peking University" width="72" height="24">
 <div class="education-details">
-<div class="education-heading"><h3>M.S. in Information Science</h3><span class="education-date">Sep. 2021 – Jun. 2023</span></div>
+<div class="education-heading"><h3>M.S. in Information Science</h3><span class="education-date">Sep. 2021 – Jul. 2023</span></div>
 <p>Peking University</p>
 <p class="education-note">Department of Information Management</p>
 <p class="education-note">Advisors: Professor Yi Bu and Professor Win-bin Huang</p>
@@ -284,7 +283,7 @@ Shrey Pandit, **Jiawei Xu**, Junyuan Hong, Zhangyang Wang, Tianlong Chen, Kaidi 
 <div class="education-entry">
 <img class="institution-logo" src="/images/institutions/pku.png" alt="Peking University" width="72" height="24">
 <div class="education-details">
-<div class="education-heading"><h3>B.M. in Information Management &amp; Information System</h3><span class="education-date">Sep. 2017 – Jun. 2021</span></div>
+<div class="education-heading"><h3>B.M. in Information Management &amp; Systems</h3><span class="education-date">Sep. 2017 – Jul. 2021</span></div>
 <p>Peking University</p>
 <p class="education-note">Department of Information Management</p>
 </div>

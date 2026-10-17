@@ -41,6 +41,7 @@ nav a, .contact-links a { text-decoration: none; }
 .name-meaning p { margin-bottom: 10px; }
 .name-meaning p:last-child { margin-bottom: 0; }
 .name-meaning strong { color: var(--ink); font-weight: 600; }
+.research-summary { max-width: 650px; margin: 20px 0 0; font-size: var(--body-size); color: var(--ink); }
 .contact-links { display: flex; flex-wrap: wrap; gap: 8px 24px; margin-top: 20px; }
 .portrait { grid-column: 1; grid-row: 1; margin: 0; }
 .portrait img { display: block; width: 180px; height: 180px; object-fit: cover; border-radius: 2px; }
@@ -135,8 +136,9 @@ footer > a:last-child { text-decoration: none; }
   .hero h1 { grid-column: 1; grid-row: 2; font-size: 40px; letter-spacing: -1px; }
   .hero .chinese-name { margin-top: 6px; }
   .portrait figcaption { grid-column: 1; grid-row: 3; justify-self: center; max-width: 300px; margin: 0; text-wrap: balance; }
-  .hero .contact-links { grid-column: 1; grid-row: 4; justify-content: center; margin: 0; gap: 6px 18px; }
-  .name-meaning { grid-column: 1; grid-row: 5; margin: 8px 0 0; text-align: left; }
+  .hero .contact-links { grid-column: 1; grid-row: 6; justify-content: center; margin: 0; gap: 6px 18px; }
+  .research-summary { grid-column: 1; grid-row: 5; margin: 0; text-align: left; }
+  .name-meaning { grid-column: 1; grid-row: 4; margin: 8px 0 0; text-align: left; }
   .chapter { padding: 30px 0 36px; }
   .chapter-label { margin-bottom: 22px; }
   .paper-box { grid-template-columns: 1fr; gap: 18px; }
