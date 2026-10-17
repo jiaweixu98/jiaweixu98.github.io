@@ -14,7 +14,7 @@ redirect_from:
 <div class="chapter-body" markdown="1">
 
 
-My name is Jiawei Xu (许家伟 in Chinese). I am a fourth-year Ph.D. student in Information Studies at UT Austin. My academic home is the [iSchool](https://ischool.utexas.edu/) within the [School of Computing](https://computing.utexas.edu/), where I am a member of the [AI Health Lab](https://aihealth.ischool.utexas.edu/).
+I am a fourth-year Ph.D. student in Information Studies at UT Austin. My academic home is the [iSchool](https://ischool.utexas.edu/) within the [School of Computing](https://computing.utexas.edu/), where I am a member of the [AI Health Lab](https://aihealth.ischool.utexas.edu/), led by Professor [Ying Ding](https://yingding.ischool.utexas.edu/). Previously, I worked with Professor [Yi Bu](https://buyi08.wixsite.com/yi-bu) and Professor [Win-bin Huang](https://www.im.pku.edu.cn/szll/syry/zzjspx/50122im231386.htm) at Peking University.
 
 Feel free to reach out! For more details, please check my [CV](/cv/JIAWEI_CV.pdf).
 </div>
@@ -274,7 +274,8 @@ Shrey Pandit, **Jiawei Xu**, Junyuan Hong, Zhangyang Wang, Tianlong Chen, Kaidi 
 <div class="education-entry">
 <img class="institution-logo" src="/images/institutions/pku.png" alt="Peking University" width="72" height="24">
 <div class="education-details">
-<div class="education-heading"><h3>M.S. in Information Science</h3><span class="education-date">Sep. 2021 – Jul. 2023</span></div>
+<div class="education-heading"><h3>Master of Science</h3><span class="education-date">Sep. 2021 – Jul. 2023</span></div>
+<p>Information Science</p>
 <p>Peking University</p>
 <p class="education-note">Department of Information Management</p>
 <p class="education-note">Advisors: Professor Yi Bu and Professor Win-bin Huang</p>
@@ -283,7 +284,8 @@ Shrey Pandit, **Jiawei Xu**, Junyuan Hong, Zhangyang Wang, Tianlong Chen, Kaidi 
 <div class="education-entry">
 <img class="institution-logo" src="/images/institutions/pku.png" alt="Peking University" width="72" height="24">
 <div class="education-details">
-<div class="education-heading"><h3>B.M. in Information Management &amp; Systems</h3><span class="education-date">Sep. 2017 – Jul. 2021</span></div>
+<div class="education-heading"><h3>Bachelor of Management</h3><span class="education-date">Sep. 2017 – Jul. 2021</span></div>
+<p>Information Management and Information Systems</p>
 <p>Peking University</p>
 <p class="education-note">Department of Information Management</p>
 </div>

@@ -29,7 +29,7 @@
 \newcommand{\entry}[4]{\par\Needspace{40pt}\begin{minipage}[t]{.17\linewidth}\vspace{0pt}\raggedright\fontsize{10}{13}\selectfont\color{muted}#1\end{minipage}\hfill\begin{minipage}[t]{.80\linewidth}\vspace{0pt}\raggedright{\fontsize{11}{14}\selectfont\bfseries #2\par}\vspace{3pt}#3\par\vspace{4pt}#4\end{minipage}\par\vspace{8pt}}
 \newcommand{\project}[3]{\par\Needspace{80pt}\vspace{7pt}\hfill\begin{minipage}[t]{.80\linewidth}\raggedright\begin{list}{\textcolor{muted}{\textbullet}}{\setlength{\leftmargin}{12pt}\setlength{\labelsep}{6pt}\setlength{\topsep}{0pt}\setlength{\itemsep}{0pt}\setlength{\parsep}{0pt}}\item {\fontsize{10.5}{14}\selectfont\bfseries #1}\hspace{6pt}{\fontsize{10}{13}\selectfont #2}\par\vspace{3pt}{\fontsize{10.5}{14}\selectfont #3\par}\end{list}\end{minipage}\par}
 \newcommand{\pub}[5]{\par\Needspace{65pt}\begin{minipage}[t]{.06\linewidth}\vspace{0pt}\raggedright\fontsize{10}{13}\selectfont\color{muted}#1\end{minipage}\hfill\begin{minipage}[t]{.91\linewidth}\vspace{0pt}\raggedright{\fontsize{11}{14}\selectfont\bfseries #2\par}\vspace{3pt}{\fontsize{10}{13}\selectfont #3\par}\vspace{3pt}{\fontsize{10}{13}\selectfont\color{muted}#4\par}\vspace{4pt}{\fontsize{9}{12}\selectfont\color{muted}#5\par}\end{minipage}\par\vspace{7pt}}
-\newcommand{\skill}[2]{\par\vspace{6pt}\begin{minipage}[t]{.26\linewidth}\vspace{0pt}\raggedright\fontsize{10}{13}\selectfont\bfseries #1\end{minipage}\hfill\begin{minipage}[t]{.70\linewidth}\vspace{0pt}\raggedright\fontsize{10}{13}\selectfont #2\end{minipage}\par}
+\newcommand{\skill}[2]{\par\Needspace{50pt}\begingroup\renewcommand{\baselinestretch}{1}\selectfont\begin{minipage}[t]{.22\linewidth}\vspace{0pt}\raggedright\fontsize{10}{14.5}\selectfont\bfseries #1\par\end{minipage}\hfill\begin{minipage}[t]{.75\linewidth}\vspace{0pt}\raggedright\fontsize{10.5}{14.5}\selectfont #2\par\end{minipage}\par\endgroup\vspace{11pt}}
 \hyphenpenalty=10000\exhyphenpenalty=10000\fancypagestyle{firstpage}{\fancyhead{}}\begin{document}\color{ink}\thispagestyle{firstpage}
 {\displayfont\fontsize{34}{40}\selectfont Jiawei Xu\par}
 \vspace{6pt}
@@ -38,28 +38,38 @@
 \vspace{10pt}
 {\fontsize{10}{14}\selectfont\href{https://jiaweixu98.github.io/}{Website}\quad\href{https://scholar.google.com/citations?user=dqFamHgAAAAJ&hl=en}{Google Scholar}\quad\href{https://github.com/jiaweixu98}{GitHub}\quad\href{https://www.linkedin.com/in/xujiawei98/}{LinkedIn}\quad\href{https://openreview.net/profile?id=\%7EJiawei_Xu6}{OpenReview}\par}
 \vspace{4pt}\meta{\href{mailto:jiaweixu@utexas.edu}{jiaweixu@utexas.edu}}
-\vspace{13pt}
+\vspace{4pt}
 I study the foundations of AI agents, with applications in health.
+\begingroup\renewcommand{\baselinestretch}{1.05}\selectfont
+\sectiontitle{Education}
+\newcommand{\education}[4]{\par\Needspace{75pt}\begin{minipage}{\linewidth}\raggedright{\fontsize{11}{14}\selectfont\bfseries #2}\hfill{\fontsize{10}{13}\selectfont\color{muted}#1}\par\vspace{4pt}#3\par\vspace{4pt}\meta{#4}\end{minipage}\par\vspace{12pt}}
+\education{Aug. 2023--Present}{Ph.D. Student in Information Studies}{The University of Texas at Austin\par\meta{iSchool, School of Computing}}{Committee: Professor Ying Ding (Chair), Professor Yan Zhang, and Professor Kenneth Fleischmann.}
+\education{Sep. 2021--Jul. 2023}{Master of Science}{Information Science\par\meta{Peking University}}{Advisors: Professor Yi Bu and Professor Win-bin Huang.\par Excellent Graduate of Beijing}
+\education{Sep. 2017--Jul. 2021}{Bachelor of Management}{Information Management and Information Systems\par\meta{Peking University}}{}
+\vspace{-12pt}\endgroup
+
 \sectiontitle{Publications}
 {\fontsize{9}{12}\selectfont\color{muted}Research themes: \textcolor{tagagent}{LLM / agents}\enspace\textcolor{rulegray}{|}\enspace\textcolor{taghealth}{Health}\enspace\textcolor{rulegray}{|}\enspace\textcolor{tagscience}{Science of Science}. Multiple tags indicate overlapping themes.\par}\vspace{5pt}
 \subheading{Conference papers}
 \pub{C1}{SEER: Long-Context Reasoning via Selective Visual-Text Compression}{\textbf{Xu, J.}, Zhai, Z., Fang, J., Xu, R., Lu, M., Zhang, Y., Wang, G., Chen, T., \& Ding, Y.}{2026\enspace\textcolor{rulegray}{/}\enspace\textit{Conference on Language Modeling (COLM 2026)}. \href{https://arxiv.org/abs/2608.15962}{Paper} \href{https://github.com/jiaweixu98/SEER}{Code}}{\textcolor{tagagent}{LLM / agents}}
 \pub{C2}{MedHallu: A Comprehensive Benchmark for Detecting Medical Hallucinations in Large Language Models}{Pandit, S., \textbf{Xu, J.}, Hong, J., Wang, Z., Chen, T., Xu, K., \& Ding, Y.}{2025\enspace\textcolor{rulegray}{/}\enspace\textit{EMNLP 2025 Main Conference}. \href{https://arxiv.org/abs/2502.14302}{Paper}\enspace\href{https://huggingface.co/datasets/UTAustin-AIHealth/MedHallu}{Dataset}\enspace\href{https://github.com/MedHallu/MedHallu}{Code}}{\textcolor{tagagent}{LLM / agents}\enspace\textcolor{rulegray}{|}\enspace \textcolor{taghealth}{Health}}
 \pub{C3}{Mapping from Meaning: Addressing the Miscalibration of Prompt-Sensitive Language Models}{Cox, K., \textbf{Xu, J.}, Han, Y., Xu, R., Li, T., Hsu, C.-Y., Chen, T., Gerych, W., \& Ding, Y.}{2025\enspace\textcolor{rulegray}{/}\enspace\textit{Proceedings of AAAI 2025}. \href{https://github.com/xocelyk/paraphrase-uncertainty}{Code} \href{https://ojs.aaai.org/index.php/AAAI/article/view/34540}{Paper}}{\textcolor{tagagent}{LLM / agents}}
-\pub{C4}{From Newborn to Impact: Bias-Aware Citation Prediction}{Lu, M., Wu, M., \textbf{Xu, J.}, Li, W., Liu, F., Ding, Y., Sun, Y., Lu, J., \& Zhang, Y}{2026\enspace\textcolor{rulegray}{/}\enspace\textit{The Web Conference 2026}. \href{https://arxiv.org/abs/2510.19246}{Preprint}}{\textcolor{tagagent}{LLM / agents}\enspace\textcolor{rulegray}{|}\enspace \textcolor{tagscience}{Science of Science}}
-\pub{C5}{Interactive Graph Visualization and Teaming Recommendation in an Interdisciplinary Project's Talent Knowledge Graph}{\textbf{Xu, J.}, Chen, J., Ye, Y., Sembay, Z., Thaker, S., Payne-Foster, P., Chen, J., \& Ding, Y.}{2025\enspace\textcolor{rulegray}{/}\enspace\textit{ASIS\&T 2025}. \href{https://cm4aikg.vercel.app/}{Demo}}{\textcolor{tagagent}{LLM / agents}\enspace\textcolor{rulegray}{|}\enspace \textcolor{taghealth}{Health}\enspace\textcolor{rulegray}{|}\enspace \textcolor{tagscience}{Science of Science}}
 \continued{Publications}
 \subheading{Conference papers (continued)}
+\pub{C4}{From Newborn to Impact: Bias-Aware Citation Prediction}{Lu, M., Wu, M., \textbf{Xu, J.}, Li, W., Liu, F., Ding, Y., Sun, Y., Lu, J., \& Zhang, Y}{2026\enspace\textcolor{rulegray}{/}\enspace\textit{The Web Conference 2026}. \href{https://arxiv.org/abs/2510.19246}{Preprint}}{\textcolor{tagagent}{LLM / agents}\enspace\textcolor{rulegray}{|}\enspace \textcolor{tagscience}{Science of Science}}
+\pub{C5}{Interactive Graph Visualization and Teaming Recommendation in an Interdisciplinary Project's Talent Knowledge Graph}{\textbf{Xu, J.}, Chen, J., Ye, Y., Sembay, Z., Thaker, S., Payne-Foster, P., Chen, J., \& Ding, Y.}{2025\enspace\textcolor{rulegray}{/}\enspace\textit{ASIS\&T 2025}. \href{https://cm4aikg.vercel.app/}{Demo}}{\textcolor{tagagent}{LLM / agents}\enspace\textcolor{rulegray}{|}\enspace \textcolor{taghealth}{Health}\enspace\textcolor{rulegray}{|}\enspace \textcolor{tagscience}{Science of Science}}
 \pub{C6}{Path-RAG: Knowledge-Guided Key Region Retrieval for Open-ended Pathology Visual Question Answering}{Naeem, A., Li, T., Liao, H.-R., \textbf{Xu, J.}, Mathew, A. M., Zhu, Z., Tan, Z., Jaiswal, A. K., Salibian, R. A., Hu, Z., Chen, T., \& Ding, Y.}{2024\enspace\textcolor{rulegray}{/}\enspace\textit{ML4H 2024}. \href{https://github.com/embedded-robotics/path-rag}{Code} \href{https://arxiv.org/abs/2411.17073}{Paper}}{\textcolor{tagagent}{LLM / agents}\enspace\textcolor{rulegray}{|}\enspace \textcolor{taghealth}{Health}}
 \pub{C7}{Decoding Patterns of Data Generation Teams for Clinical and Scientific Success: Insights from the Bridge2AI Talent Knowledge Graph}{\textbf{Xu, J.}, Xie, Q., Liu, M., Sembay, Z., Thaker, S., Payne-Foster, P., Chen, J. Y., \& Ding, Y.}{2024\enspace\textcolor{rulegray}{/}\enspace\textit{Proceedings of JCDL 2024}.}{\textcolor{tagagent}{LLM / agents}\enspace\textcolor{rulegray}{|}\enspace \textcolor{taghealth}{Health}\enspace\textcolor{rulegray}{|}\enspace \textcolor{tagscience}{Science of Science}}
 \pub{C8}{Thought Graph: Generating Thought Process for Biological Reasoning}{Hsu, C.-Y., Cox, K., \textbf{Xu, J.}, Tan, Z., Zhai, T., Hu, M., Pratt, D., Chen, T., Hu, Z., \& Ding, Y.}{2024\enspace\textcolor{rulegray}{/}\enspace\textit{Companion Proceedings of the ACM Web Conference 2024 (WWW’24 Companion)}. \href{https://doi.org/10.1145/3589335.3651572}{Paper}}{\textcolor{tagagent}{LLM / agents}\enspace\textcolor{rulegray}{|}\enspace \textcolor{taghealth}{Health}}
 \subheading{Journal articles}
 \pub{J1}{Knowledge Integration and Diffusion Structures of Interdisciplinary Research: A Large-Scale Analysis Based on Propensity Score Matching}{\textbf{Xu, J.}, Zheng, Z., Min, C., Huang, W., \& Bu, Y.}{2025\enspace\textcolor{rulegray}{/}\enspace\textit{Journal of the Association for Information Science and Technology}. \href{https://github.com/jiaweixu98/SciSci_IDR_vs_UDR}{Code} \href{https://asistdl.onlinelibrary.wiley.com/doi/full/10.1002/asi.25014}{Paper}}{\textcolor{tagscience}{Science of Science}}
 \pub{J2}{TAMA: A Human-AI Collaborative Thematic Analysis Framework Using Multi-Agent LLMs for Clinical Interviews}{Xu, H., Yi, S., Lim, T., \textbf{Xu, J.}, Well, A., Mery, C., Zhang, A., Zhang, Y., Ji, H., Pingali, K., Leng, Y., \& Ding, Y.}{2026\enspace\textcolor{rulegray}{/}\enspace\textit{ACM Transactions on Computing for Healthcare}. \href{https://dl.acm.org/doi/10.1145/3828752}{Paper}}{\textcolor{tagagent}{LLM / agents}\enspace\textcolor{rulegray}{|}\enspace \textcolor{taghealth}{Health}}
+\begingroup\renewcommand{\baselinestretch}{1.04}\selectfont
+\continued{Publications}
+\subheading{Journal articles (continued)}
 \pub{J3}{PubMed Knowledge Graph 2.0: Connecting Papers, Patents, and Clinical Trials in Biomedical Science}{Xu, J., Yu, C., \textbf{Xu, J.}, Torvik, V. I., Kang, J., Sung, M., Song, M., Bu, Y., \& Ding, Y.}{2025\enspace\textcolor{rulegray}{/}\enspace\textit{Scientific Data}.}{\textcolor{taghealth}{Health}\enspace\textcolor{rulegray}{|}\enspace \textcolor{tagscience}{Science of Science}}
 \par\Needspace{85pt}\vspace{5pt}{\fontsize{11}{14}\selectfont\bfseries\color{accent}Workshop proposal\par}\vspace{5pt}
 \pub{2025}{The Second Workshop on GenAI for Health: Potential, Trust, and Policy Compliance}{\textbf{Xu, J.}, Xiang, T., Rajpurkar, P., Hong, J., Chen, C., Adeli, E., Li, X., Pavlakos, G., Delp, S., Fei-Fei, L., \& Ding, Y}{2025\enspace\textcolor{rulegray}{/}\enspace\textit{NeurIPS 2025 Workshop Proposal}.}{\textcolor{tagagent}{LLM / agents}\enspace\textcolor{rulegray}{|}\enspace \textcolor{taghealth}{Health}}
-\continued{Publications}
 \subheading{Preprints \& work under review}
 \pub{P1}{Rethinking the Value of Multi-Agent Workflow: A Strong Single Agent Baseline}{\textbf{Xu, J.}, Koesdwiady, A., Bei, S., Han, Y., Huang, B., Wang, D., Chen, Y., Wang, Z., Wang, P., Li, P., \& Ding, Y}{2026\enspace\textcolor{rulegray}{/}\enspace\textit{arXiv preprint}. \href{https://www.arxiv.org/abs/2601.12307}{Preprint}}{\textcolor{tagagent}{LLM / agents}}
 \pub{P2}{MATRIX: Multi-Agent Teaming Recommendation through EXpertise Gap Identification}{\textbf{Xu, J.}, Ye, Y., Han, Y., Wang, H., Shomer, H., Li, W., Lu, M., Wu, M., Liu, F., Zhang, Y., Sun, Y., Tang, J., \& Ding, Y}{2026\enspace\textcolor{rulegray}{/}\enspace\textit{Under review}}{\textcolor{tagagent}{LLM / agents}\enspace\textcolor{rulegray}{|}\enspace \textcolor{taghealth}{Health}\enspace\textcolor{rulegray}{|}\enspace \textcolor{tagscience}{Science of Science}}
@@ -69,11 +79,7 @@ I study the foundations of AI agents, with applications in health.
 \pub{W3}{Position: Open and Closed Large Language Models in Healthcare}{\textbf{Xu, J.}, Ding, Y., \& Bu, Y.}{2024\enspace\textcolor{rulegray}{/}\enspace\textit{GenAI4Health Workshop at NeurIPS}. \href{https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dqFamHgAAAAJ&citation_for_view=dqFamHgAAAAJ:J_g5lzvAfSwC}{Google Scholar}}{\textcolor{tagagent}{LLM / agents}\enspace\textcolor{rulegray}{|}\enspace \textcolor{taghealth}{Health}}
 
 
-\clearpage\sectiontitle{Education}
-\entry{Aug. 2023--\\Present}{Ph.D. Student in Information Studies}{The University of Texas at Austin}{\meta{iSchool, School of Computing}\vspace{4pt}\meta{Committee: Professor Ying Ding (Chair), Professor Yan Zhang, and Professor Kenneth Fleischmann.}}
-\entry{Sep. 2021--\\Jul. 2023}{M.S. in Information Science}{Peking University}{\meta{Advisors: Professor Yi Bu and Professor Win-bin Huang.}\vspace{4pt}\meta{Excellent Graduate of Beijing}}
-\entry{Sep. 2017--\\Jul. 2021}{B.M. in Information Management \& Systems}{Peking University}{}
-\sectiontitle{Employment}
+\endgroup\clearpage\sectiontitle{Employment}
 \entry{May--Aug. 2026}{\fontsize{13}{16}\selectfont Applied Scientist Intern}{Amazon\enspace\textcolor{muted}{/ Seattle, WA}}{
 Self-improving automated research loop for machine learning tasks.\par\vspace{5pt}
 \meta{Mentors: Dihan Dai and Keyang He; Manager: Jinhe Shi. Technical advisors: Jiajian Lu and Olcay Boz.}
@@ -86,20 +92,37 @@ Self-improving automated research loop for machine learning tasks.\par\vspace{5p
 \entry{Aug. 2023--\\Aug. 2026}{\fontsize{13}{16}\selectfont Graduate Research Assistant}{The University of Texas at Austin}{\meta{iSchool, School of Computing}\vspace{8pt}{\fontsize{9}{12}\selectfont\color{muted}SELECTED PROJECTS\par}}
 \project{Patient Simulator}{\href{https://irisim.azurewebsites.net/}{Demo}}{Developed a voice-based AI patient simulator to help medical students practice clinical conversations and patient communication. Related exploration: \href{https://arxiv.org/abs/2608.15962}{SEER}, long-context reasoning through selective visual-text compression.}
 \project{Cell Maps for AI (CM4AI)}{\href{https://bridge2ai.labs-app.com/}{Demo}}{Developed interactive knowledge graph visualization and teaming recommendation tools to help researchers explore expertise and identify potential collaborators.}
-\clearpage
-\entry{Aug. 2023--\\Aug. 2026}{\fontsize{13}{16}\selectfont Graduate Research Assistant {\normalfont\fontsize{10}{13}\selectfont\color{muted}(continued)}}{The University of Texas at Austin}{\meta{iSchool, School of Computing}\vspace{8pt}{\fontsize{9}{12}\selectfont\color{muted}SELECTED PROJECTS (CONTINUED)\par}}
 \project{LLM uncertainty \& hallucination detection for health}{}{Core development contributions to \href{https://ojs.aaai.org/index.php/AAAI/article/view/34540}{Mapping from Meaning}, studying prompt sensitivity and uncertainty calibration, and \href{https://medhallu.github.io/}{MedHallu}, a benchmark for detecting medical hallucinations.}
 \project{LLM-assisted thematic analysis}{\href{https://arxiv.org/abs/2502.01620}{Paper}\quad\href{https://github.com/jiaweixu98/LLM-TA}{Code}}{Developed methods for identifying themes in interviews with parents of children with congenital heart disease, with evaluation against human analysis and expert review.}
 \begingroup\renewcommand{\baselinestretch}{1.04}\selectfont
-\sectiontitle{Academic service}
+\clearpage\sectiontitle{Academic service}
 \subheading{Workshop leadership}
 \entry{2026}{Workshop Organizer (Student Lead) \& Program Co-Chair}{\href{https://genai4health.github.io/2026-NeurIPS/}{GenAI4Health Workshop at NeurIPS 2026}}{\meta{Sydney, Australia}}
 \entry{2025}{Workshop Organizer (Lead) \& Program Co-Chair}{\href{https://aihealth.ischool.utexas.edu/GenAI4HealthNeurips2025/}{GenAI4Health Workshop at NeurIPS 2025}}{\meta{San Diego, CA, USA}}
 \entry{2024}{Onsite Student Organizer}{\href{https://genai4health.github.io/2024-NeurIPS/}{GenAI4Health Workshop at NeurIPS 2024}}{\meta{Vancouver, Canada}}
 \Needspace{170pt}
 \subheading{Reviewing}
-\textbf{Conference PC member \& reviewer}\par\vspace{4pt}ICML; NeurIPS; ACL Rolling Review; ML4H; AAAI.\par\vspace{9pt}
-\textbf{Journal reviewer}\par\vspace{4pt}{ACM Computing Surveys; Data and Information Management; Journal of the Association for Information Science and Technology; Nature Humanities \& Social Sciences Communications; Online Information Review; Data Intelligence; Information \& Culture; Journal of Clinical and Translational Science; Scientometrics.}
+\textbf{Conference PC member \& reviewer}
+\begin{itemize}[leftmargin=12pt,labelsep=6pt,itemsep=4pt,parsep=0pt,topsep=6pt]
+\item ICML
+\item NeurIPS
+\item ACL Rolling Review
+\item ML4H
+\item AAAI
+\end{itemize}
+\vspace{7pt}
+\textbf{Journal reviewer}
+\begin{itemize}[leftmargin=12pt,labelsep=6pt,itemsep=4pt,parsep=0pt,topsep=6pt]
+\item ACM Computing Surveys
+\item Data and Information Management
+\item Journal of the Association for Information Science and Technology
+\item Nature Humanities \& Social Sciences Communications
+\item Online Information Review
+\item Data Intelligence
+\item Information \& Culture
+\item Journal of Clinical and Translational Science
+\item Scientometrics
+\end{itemize}
 \clearpage\sectiontitle{Invited talks}
 \entry{Oct. 2026}{AI Agents over Biomedical Knowledge Graphs: Finding Collaborators and Querying Data from Research Papers}{NSF Convergence Accelerator meeting}{\href{https://bridge2ai.labs-app.com/}{Project demo}}
 \entry{Apr. 2025;\\Oct. 2024}{CM4AI Talent Knowledge Graph}{Virtual talk}{}
