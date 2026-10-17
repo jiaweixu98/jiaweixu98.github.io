@@ -125,14 +125,14 @@ footer > a:last-child { text-decoration: none; }
   .paper-box { grid-template-columns: 200px minmax(0, 1fr); gap: 24px; }
 }
 @media (max-width: 560px) {
-  .hero { grid-template-columns: 112px minmax(0, 1fr); gap: 22px; padding: 32px 0; }
-  .hero-copy { display: contents; }
-  .hero h1 { grid-column: 2; grid-row: 1; align-self: start; font-size: 40px; letter-spacing: -1px; }
-  .portrait { display: contents; }
-  .portrait img { grid-column: 1; grid-row: 1 / 3; width: 112px; height: 112px; }
-  .portrait figcaption { grid-column: 2; grid-row: 2; margin: 0; }
-  .hero .contact-links { grid-column: 1 / -1; grid-row: 3; align-self: start; margin: 0; gap: 8px 16px; }
-  .name-meaning { grid-column: 1 / -1; grid-row: 4; margin: 0; }
+  .hero { grid-template-columns: minmax(0, 1fr); gap: 16px; padding: 30px 0; text-align: center; }
+  .hero-copy, .portrait { display: contents; }
+  .portrait img { grid-column: 1; grid-row: 1; justify-self: center; width: 128px; height: 128px; }
+  .hero h1 { grid-column: 1; grid-row: 2; font-size: 40px; letter-spacing: -1px; }
+  .hero .chinese-name { margin-top: 6px; }
+  .portrait figcaption { grid-column: 1; grid-row: 3; justify-self: center; max-width: 300px; margin: 0; text-wrap: balance; }
+  .hero .contact-links { grid-column: 1; grid-row: 4; justify-content: center; margin: 0; gap: 6px 18px; }
+  .name-meaning { grid-column: 1; grid-row: 5; margin: 8px 0 0; text-align: left; }
   .chapter { padding: 30px 0 36px; }
   .chapter-label { margin-bottom: 22px; }
   .paper-box { grid-template-columns: 1fr; gap: 18px; }
@@ -145,8 +145,6 @@ footer > a:last-child { text-decoration: none; }
 }
 @media (max-width: 360px) {
   .site-header, main, footer { padding-left: 18px; padding-right: 18px; }
-  .hero { grid-template-columns: 100px minmax(0, 1fr); gap: 18px; }
-  .portrait img { width: 100px; height: 100px; }
   .hero h1 { font-size: 36px; }
 }
 @media print {
