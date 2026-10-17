@@ -36,14 +36,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Jiawei Xu"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/jiawei-scholar-refined.png"
   bio              : ""
   location         :
   employer         : "iSchool, UT Austin"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=dqFamHgAAAAJ"
   semanticscholar   : "https://www.semanticscholar.org/author/Jiawei-Xu/2144295598"
-  email            : "jiaweixu@utexas.edu"
+  email            :
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -81,6 +81,16 @@ include:
   - _pages
   - files
 exclude:
+  - output
+  - scripts
+  - run_server.sh
+  - _pages/cv_tex.tex
+  - _pages/resume_onepage.tex
+  - Gemfile.lock
+  - README.md
+  - images/institutions/sources.txt
+  - images/institutions/pku.ico
+  - images/jiawei-scholar-original.jpg
   - docs
   - google_scholar_crawler
   - cv-temp

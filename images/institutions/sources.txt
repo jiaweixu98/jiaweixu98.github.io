@@ -1,0 +1,6 @@
+Institution icons retrieved from official websites on 2026-10-17.
+UT Austin: https://www.utexas.edu/android-chrome-192x192.png
+Amazon: https://www.aboutamazon.com/_next/static/media/apple-touch-icon.706b1b87.png
+Peking University: https://english.pku.edu.cn/Uploads/Bden/Picture/2020/11/25/s5fbdbf048bc00.png
+
+UT Austin wordmark: https://www.utexas.edu/themes/coresite/coretheme/images/logo.svg

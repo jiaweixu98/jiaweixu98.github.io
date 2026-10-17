@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  {% include seo.html %}
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f7f6f2">
+  <link rel="icon" href="{{ '/images/favicon-32x32.png' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/editorial.css' | relative_url }}">
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+<header class="site-header">
+  <a class="wordmark" href="#about-me" aria-label="Jiawei Xu, home">JX<span>.</span></a>
+  <nav aria-label="Main navigation">
+    <a href="#about-me">About</a><a href="#research">Research</a><a href="#news">News</a><a href="#employment">Experience</a><a href="#teaching-and-service">Service</a><a href="#educations">Education</a><a href="{{ '/cv/JIAWEI_CV.pdf' | relative_url }}">CV ↗</a>
+  </nav>
+</header>
+<main id="main">
+  <section class="hero" aria-labelledby="name">
+    <div class="hero-copy">
+      <h1 id="name">Jiawei Xu<span class="chinese-name" lang="zh">许家伟</span></h1>
+      <div class="name-meaning">
+        <p><strong>Jiawei (<span lang="zh">家伟</span>)</strong> is my given name (first name): <span lang="zh">家</span> means “home” or “family,” and <span lang="zh">伟</span> means “great” or “distinguished.”</p>
+        <p><strong>Xu (<span lang="zh">许</span>)</strong> is my family name (last name). As a Chinese word, <span lang="zh">许</span> commonly means “to allow” or “to promise.” In Chinese, the family name comes first: <span lang="zh">许家伟</span>.</p>
+      </div>
+      <div class="contact-links"><a href="https://scholar.google.com/citations?user=dqFamHgAAAAJ">Google Scholar ↗</a><a href="#contact">Email ↓</a><a href="https://github.com/jiaweixu98">GitHub ↗</a><a href="https://www.linkedin.com/in/xujiawei98/">LinkedIn ↗</a><a href="https://orcid.org/0000-0003-4386-5277">ORCID ↗</a></div>
+    </div>
+    <figure class="portrait"><img src="{{ '/images/jiawei-scholar-refined.png' | relative_url }}" alt="Jiawei Xu" width="512" height="512"><figcaption>Ph.D. Student, Department of Information, School of Computing, UT Austin</figcaption></figure>
+  </section>
+  <article class="content">{{ content }}</article>
+</main>
+<footer><a class="footer-name" href="#about-me">Jiawei Xu<span> / 许家伟</span></a><span id="contact" class="email-hint">Email: firstnamelastname [at] utexas.edu</span><a href="#main">Back to top ↑</a></footer>
+</body>
+</html>
