@@ -149,34 +149,7 @@ Shrey Pandit, **Jiawei Xu**, Junyuan Hong, Zhangyang Wang, Tianlong Chen, Kaidi 
   </a>
 </div>
 
-<details>
-  <summary>More news</summary>
-  <div>
-    <div class="news-date"><strong>May 2025:</strong></div>
-      <div class="news-item">
-        I joined Amazon Search in Palo Alto, CA as an Applied Scientist Intern for Summer 2025, continuing remotely in Fall 2025.
-      </div>
 
-    <div class="news-date"><strong>April 2025:</strong></div>
-      <div class="news-item">
-        A paper was accepted at <strong>The Journal of the Association for Information Science and Technology (JASIST)</strong>.
-      </div>
-
-    <div class="news-date"><strong>February 2025:</strong></div>
-      <div class="news-item">
-        I built an interactive knowledge graph visualization for the NIH Bridge2AI program: <a href="https://cm4aikg.vercel.app/" target="_blank" rel="noopener noreferrer">CM4AI Knowledge Graph</a>. I also developed a teaming recommendation demo: <a href="https://bridge2ai.labs-app.com/" target="_blank" rel="noopener noreferrer">CM4AI Teaming (current demo)</a>.
-      </div>
-
-      <div class="news-item about-demo-flex">
-        <a href="https://cm4aikg.vercel.app/" target="_blank" rel="noopener noreferrer">
-          <img src="/images/bridge2aikg.png" alt="CM4AI Knowledge Graph" />
-        </a>
-        <a href="https://bridge2ai.labs-app.com/" target="_blank" rel="noopener noreferrer">
-          <img src="/images/teaming%20demo.png" alt="CM4AI Teaming Demo" />
-        </a>
-      </div>
-  </div>
-</details>
 
 
 </div>
