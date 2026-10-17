@@ -16,6 +16,20 @@
     <a href="#about-me">About</a><a href="#research">Research</a><a href="#news">News</a><a href="#employment">Experience</a><a href="#teaching-and-service">Service</a><a href="#educations">Education</a><a href="{{ '/cv/JIAWEI_CV.pdf' | relative_url }}">CV ↗</a>
   </nav>
 </header>
+<script>
+(function () {
+  var header = document.querySelector('.site-header');
+  function updateHeaderHeight() {
+    document.documentElement.style.setProperty('--header-height', header.getBoundingClientRect().height + 'px');
+  }
+  updateHeaderHeight();
+  if ('ResizeObserver' in window) {
+    new ResizeObserver(updateHeaderHeight).observe(header);
+  } else {
+    window.addEventListener('resize', updateHeaderHeight);
+  }
+}());
+</script>
 <main id="main">
   <section class="hero" aria-labelledby="name">
     <div class="hero-copy">
