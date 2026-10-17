@@ -156,7 +156,7 @@ Shrey Pandit, **Jiawei Xu**, Junyuan Hong, Zhangyang Wang, Tianlong Chen, Kaidi 
 </section>
 
 <section class="chapter" id="employment" aria-labelledby="heading-employment" markdown="1">
-<div class="chapter-label"><span>04</span><h2 id="heading-employment">Experience</h2></div>
+<div class="chapter-label"><span>04</span><h2 id="heading-employment">Professional Experience</h2></div>
 <div class="chapter-body" markdown="1">
 
 
