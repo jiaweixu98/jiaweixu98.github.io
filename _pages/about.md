@@ -186,7 +186,7 @@ Shrey Pandit, **Jiawei Xu**, Junyuan Hong, Zhangyang Wang, Tianlong Chen, Kaidi 
 <div class="experience-entry">
 <img class="institution-logo" src="/images/institutions/ut-austin-wordmark.svg" alt="UT Austin" width="72" height="24">
 <div class="experience-details">
-<div class="entry-heading"><h3>Graduate Research Assistant</h3><span class="entry-date">Aug. 2023 – Present</span></div>
+<div class="entry-heading"><h3>Graduate Research Assistant</h3><span class="entry-date">Aug. 2023 – Aug. 2026</span></div>
 <p>The University of Texas at Austin</p>
 <p class="entry-note"><a href="https://ischool.utexas.edu/">iSchool (Information)</a>, <a href="https://computing.utexas.edu/">School of Computing</a></p>
 <p class="entry-project"><a href="https://irisim.azurewebsites.net/">Patient Simulator</a> — Voice Agent for Medical Communication Training</p>
