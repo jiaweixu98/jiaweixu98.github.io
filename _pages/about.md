@@ -209,8 +209,8 @@ Shrey Pandit, **Jiawei Xu**, Junyuan Hong, Zhangyang Wang, Tianlong Chen, Kaidi 
 ### Service
 
 <div class="workshop-list">
-<div class="workshop-row"><strong>2026</strong><span>Workshop Organizer (Student Lead)</span><span><a href="https://genai4health.github.io/2026-NeurIPS/">GenAI4Health Workshop at NeurIPS 2026</a><br><span class="workshop-location">Sydney, Australia</span></span></div>
-<div class="workshop-row"><strong>2025</strong><span>Workshop Organizer (Lead)</span><span><a href="https://aihealth.ischool.utexas.edu/GenAI4HealthNeurips2025/">GenAI4Health Workshop at NeurIPS 2025</a><br><span class="workshop-location">San Diego, CA, USA</span></span></div>
+<div class="workshop-row"><strong>2026</strong><span>Workshop Organizer (Student Lead) &amp; Program Co-Chair</span><span><a href="https://genai4health.github.io/2026-NeurIPS/">GenAI4Health Workshop at NeurIPS 2026</a><br><span class="workshop-location">Sydney, Australia</span></span></div>
+<div class="workshop-row"><strong>2025</strong><span>Workshop Organizer (Lead) &amp; Program Co-Chair</span><span><a href="https://aihealth.ischool.utexas.edu/GenAI4HealthNeurips2025/">GenAI4Health Workshop at NeurIPS 2025</a><br><span class="workshop-location">San Diego, CA, USA</span></span></div>
 <div class="workshop-row"><strong>2024</strong><span>Onsite Student Organizer</span><span><a href="https://genai4health.github.io/2024-NeurIPS/">GenAI4Health Workshop at NeurIPS 2024</a><br><span class="workshop-location">Vancouver, Canada</span></span></div>
 </div>
 
