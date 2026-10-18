@@ -4,3 +4,6 @@ Amazon: https://www.aboutamazon.com/_next/static/media/apple-touch-icon.706b1b87
 Peking University: https://english.pku.edu.cn/Uploads/Bden/Picture/2020/11/25/s5fbdbf048bc00.png
 
 UT Austin wordmark: https://www.utexas.edu/themes/coresite/coretheme/images/logo.svg
+
+Amazon wordmark (transparent): https://assets.aboutamazon.com/2e/d7/ac71f1f344c39f8949f48fc89e71/amazon-logo-squid-ink-smile-orange.png
+Source: https://press.aboutamazon.com/logos?p=4

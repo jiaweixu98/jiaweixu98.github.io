@@ -163,7 +163,7 @@ Shrey Pandit, **Jiawei Xu**, Junyuan Hong, Zhangyang Wang, Tianlong Chen, Kaidi 
 
 <div class="experience-list">
 <div class="experience-entry">
-<img class="institution-logo" src="/images/institutions/amazon.png" alt="Amazon" width="24" height="24">
+<img class="institution-logo" src="/images/institutions/amazon-wordmark.png" alt="Amazon" width="72" height="24">
 <div class="experience-details">
 <div class="entry-heading"><h3>Applied Scientist Intern</h3><span class="entry-date">May – Aug. 2026</span></div>
 <p>Amazon · Seattle, WA (SEA24)</p>
@@ -173,7 +173,7 @@ Shrey Pandit, **Jiawei Xu**, Junyuan Hong, Zhangyang Wang, Tianlong Chen, Kaidi 
 </div>
 </div>
 <div class="experience-entry">
-<img class="institution-logo" src="/images/institutions/amazon.png" alt="Amazon" width="24" height="24">
+<img class="institution-logo" src="/images/institutions/amazon-wordmark.png" alt="Amazon" width="72" height="24">
 <div class="experience-details">
 <div class="entry-heading"><h3>Applied Scientist Intern</h3><span class="entry-date">May – Nov. 2025</span></div>
 <p>Amazon Search · Palo Alto, CA (SFO24)</p>
