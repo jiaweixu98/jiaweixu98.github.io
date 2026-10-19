@@ -7,3 +7,6 @@ UT Austin wordmark: https://www.utexas.edu/themes/coresite/coretheme/images/logo
 
 Amazon wordmark (transparent): https://assets.aboutamazon.com/2e/d7/ac71f1f344c39f8949f48fc89e71/amazon-logo-squid-ink-smile-orange.png
 Source: https://press.aboutamazon.com/logos?p=4
+
+UT Austin Longhorn (official athletics website): https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/texassports_com/images/integration_2024/main_nav_logo-orange.svg
+Source: https://texaslonghorns.com/

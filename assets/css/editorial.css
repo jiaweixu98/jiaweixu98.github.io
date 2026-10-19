@@ -112,7 +112,7 @@ details[open] summary { margin-bottom: 16px; }
 
 .institution-logo { display: inline-block; width: 24px; height: 24px; object-fit: contain; vertical-align: middle; margin-right: 9px; }
 .institution-logo[src*="pku"], .institution-logo[src*="amazon-wordmark"] { width: 72px; }
-.institution-logo[src*="ut-austin"] { width: 72px; height: 24px; }
+.institution-logo[src*="ut-austin"] { width: 64px; height: 30px; }
 footer { border-top: 1px solid var(--line); display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 16px; padding-top: 28px; padding-bottom: 28px; font-size: var(--detail-size); color: var(--muted); }
 .footer-name { color: var(--ink); text-decoration: none; }
 .email-hint { overflow-wrap: anywhere; scroll-margin-top: 30px; }

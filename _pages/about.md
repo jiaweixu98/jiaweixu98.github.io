@@ -183,7 +183,7 @@ Shrey Pandit, **Jiawei Xu**, Junyuan Hong, Zhangyang Wang, Tianlong Chen, Kaidi 
 </div>
 </div>
 <div class="experience-entry">
-<img class="institution-logo" src="/images/institutions/ut-austin-wordmark.svg" alt="UT Austin" width="72" height="24">
+<img class="institution-logo" src="/images/institutions/ut-austin-longhorn.svg" alt="UT Austin" width="64" height="30">
 <div class="experience-details">
 <div class="entry-heading"><h3>Graduate Research Assistant</h3><span class="entry-date">Aug. 2023 – Aug. 2026</span></div>
 <p>The University of Texas at Austin</p>
@@ -263,7 +263,7 @@ Shrey Pandit, **Jiawei Xu**, Junyuan Hong, Zhangyang Wang, Tianlong Chen, Kaidi 
 
 <div class="education-list">
 <div class="education-entry">
-<img class="institution-logo" src="/images/institutions/ut-austin-wordmark.svg" alt="UT Austin" width="72" height="24">
+<img class="institution-logo" src="/images/institutions/ut-austin-longhorn.svg" alt="UT Austin" width="64" height="30">
 <div class="education-details">
 <div class="education-heading"><h3>Ph.D. student in Information Studies</h3><span class="education-date">Aug. 2023 – Present</span></div>
 <p>The University of Texas at Austin</p>
